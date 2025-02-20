@@ -1,0 +1,355 @@
+[Senate Report 117-280]
+[From the U.S. Government Publishing Office]
+
+
+                                                      Calendar No. 679
+117th Congress       }                                  {        Report
+                                 SENATE
+ 2d Session          }                                  {       117-280
+_______________________________________________________________________
+
+                                     
+
+
+
+             PRESIDENT'S CUP CYBERSECURITY COMPETITION ACT
+
+                               __________
+
+                              R E P O R T
+
+                                 of the
+
+                   COMMITTEE ON HOMELAND SECURITY AND
+
+                          GOVERNMENTAL AFFAIRS
+
+                          UNITED STATES SENATE
+
+                              to accompany
+
+                               H.R. 6824
+
+           TO AUTHORIZE THE CYBERSECURITY AND INFRASTRUCTURE
+             SECURITY AGENCY OF THE DEPARTMENT OF HOMELAND
+          SECURITY TO HOLD AN ANNUAL CYBERSECURITY COMPETITION
+           RELATING TO OFFENSIVE AND DEFENSIVE CYBERSECURITY
+                  DISCIPLINES, AND FOR OTHER PURPOSES
+
+
+
+
+               December 19, 2022.--Ordered to be printed
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           ROB PORTMAN, Ohio
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              RAND PAUL, Kentucky
+JACKY ROSEN, Nevada                  JAMES LANKFORD, Oklahoma
+ALEX PADILLA, California             MITT ROMNEY, Utah
+JON OSSOFF, Georgia                  RICK SCOTT, Florida
+                                     JOSH HAWLEY, Missouri
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+         Christopher J. Mulkins, Director of Homeland Security
+         Jeffrey D. Rothblum, Senior Professional Staff Member
+                Pamela Thiessen, Minority Staff Director
+            Sam J. Mulopulos, Minority Deputy Staff Director
+              William H.W. McKenna, Minority Chief Counsel
+                     Laura W. Kilbride, Chief Clerk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Calendar No. 679
+117th Congress       }                                  {        Report
+                                 SENATE
+ 2d Session          }                                  {       117-280
+
+======================================================================
+
+
+
+ 
+             PRESIDENT'S CUP CYBERSECURITY COMPETITION ACT
+
+                                _______
+                                
+
+               December 19, 2022.--Ordered to be printed
+
+                                _______
+                                
+
+ Mr. Peters, from the Committee on Homeland Security and Governmental 
+                    Affairs, submitted the following
+
+                              R E P O R T
+
+                        [To accompany H.R. 6824]
+
+      [Including cost estimate of the Congressional Budget Office]
+
+    The Committee on Homeland Security and Governmental 
+Affairs, to which was referred the bill (H.R. 6824) to 
+authorize the Cybersecurity and Infrastructure Security Agency 
+of the Department of Homeland Security to hold an annual 
+cybersecurity competition relating to offensive and defensive 
+cybersecurity disciplines, and for other purposes, having 
+considered the same, reports favorably thereon with an 
+amendment, in the nature of a substitute, and recommends that 
+the bill, as amended, do pass.
+
+                                CONTENTS
+
+                                                                     Page
+  I. Purpose and Summary..............................................  1
+ II. Background and Need for the Legislation..........................  2
+III. Legislative History..............................................  2
+ IV. Section-by-Section Analysis of the Bill, as Reported.............  3
+  V. Evaluation of Regulatory Impact..................................  4
+ VI. Congressional Budget Office Cost Estimate........................  4
+VII. Changes in Existing Law Made by the Bill, as Reported............  5
+
+                         I. PURPOSE AND SUMMARY
+
+    H.R. 6824, the President's Cup Cybersecurity Competition 
+Act, authorizes the Cybersecurity and Infrastructure Security 
+Agency (CISA) to carry out an annual cybersecurity competition 
+for Federal civilian employees and members of the armed forces. 
+This competition was created by Executive Order No. 13870 in 
+2019, and the President's Cup Cybersecurity Competition 
+(President's Cup), with the goal to ``identify, challenge, and 
+reward the United States Government's best cybersecurity 
+practitioners and teams across offensive and defensive 
+cybersecurity disciplines.''\1\ This bill grants CISA the 
+necessary authorities to fully implement the competition, 
+including by authorizing CISA to make specified expenditures to 
+run the competition, and to directly provide cash prizes to the 
+winning individuals and teams regardless of where they work in 
+the Federal Government.
+---------------------------------------------------------------------------
+    \1 \President Donald Trump, Executive Order 13870: America's 
+Cybersecurity Workforce (May 2, 2019) (https://www.federalregister.gov/
+documents/2019/05/09/2019-09750/americas-cybersecurity-workforce).
+---------------------------------------------------------------------------
+
+              II. BACKGROUND AND NEED FOR THE LEGISLATION
+
+    CISA launched the first President's Cup in 2019 as part of 
+its effort to ``identify, challenge, and reward the best 
+cybersecurity talent'' in the Federal workforce.\2\ The three-
+round competition involves both individual and team challenges 
+focusing on areas across the National Initiative for 
+Cybersecurity Education Cybersecurity Workforce Framework.\3\ 
+The 2021 competition was broken down into three categories: (a) 
+incident response and forensic analysis (team); (b) incident 
+response and forensic analysis (individual); and (c) 
+exploitation analysis and vulnerability assessment 
+(individual).\4\ Members of both the military and civilian 
+federal workforce are eligible to participate in the 
+competition.\5\
+---------------------------------------------------------------------------
+    \2\Cybersecurity and Infrastructure Security Agency, CISA 
+President's Cup 2020 (accessed Nov. 4, 2022) (https://www.cisa.gov/
+publication/cisa-presidents-cup-2020).
+    \3\Cybersecurity and Infrastructure Security Agency, President's 
+Cup Cybersecurity Competition (accessed Nov. 4, 2022) (https://
+www.cisa.gov/presidentscup); National Institute of Standards and 
+Technology, Workforce Framework for Cybersecurity (NICE Framework) 
+(NIST Special Publication 800-181, Revision 1) (Nov. 2020) (https://
+doi.org/10.6028/NIST.SP.800-181r1).
+    \4\Cybersecurity and Infrastructure Security Agency, CISA to Host 
+Third Annual President's Cup Cybersecurity Competition (Aug. 30, 2021) 
+(https://www.cisa.gov/news/2021/08/30/cisa-host-third-annual-
+presidents-cup-cybersecurity-competition).
+    \5\Cybersecurity and Infrastructure Security Agency, President's 
+Cup Cybersecurity Competition (accessed Nov. 4, 2022) (https://
+www.cisa.gov/presidentscup).
+---------------------------------------------------------------------------
+    Enthusiasm for the President's Cup has grown since the 
+competition was first launched. Over 1,000 individuals and 200 
+teams participated in the first year of the competition in 
+2019. Participation grew to over 1,400 individuals and nearly 
+250 teams in 2020, and, in 2021, nearly 2,000 federal employees 
+competed.\6\ Despite this enthusiasm, lack of a formal 
+authorization has prevented the program from achieving a 
+critical objective rewarding the best cyber talent within the 
+Federal Government. Notably, under current law and the 
+program's establishment in Executive Order No. 13870, the 
+Department of Homeland Security (DHS) lacks the authority to 
+provide cash prizes or an award ceremony to Federal workers who 
+are employed outside of the Department. As such, CISA, as a 
+component agency within DHS, can only encourage other Federal 
+departments and agencies to provide rewards, or otherwise 
+recognize, their employees who participate in and place in the 
+competition.
+---------------------------------------------------------------------------
+    \6\Id.
+---------------------------------------------------------------------------
+    H.R. 6824 will specifically authorize the President's Cup 
+Cybersecurity Competition in law in a manner that provides CISA 
+with needed authority to award cash prizes and host ceremonies 
+for the winners, rewarding their demonstrated cybersecurity 
+skills, which in turn can serve as an important retention tool.
+
+                        III. LEGISLATIVE HISTORY
+
+    Representative Luria (D-VA-2) introduced H.R. 6824, the 
+President's Cup Cybersecurity Competition Act, on February 25, 
+2022, with Representative Connolly (D-VA-11). The bill was 
+referred to the House Committee on Homeland Security. 
+Representative Garbarino (R-NY-2) joined the bill as a 
+cosponsor on March 1, 2022. On March 2, 2022, the bill was 
+marked up by the House Committee on Homeland Security favorably 
+by a recorded vote of 33-0. On May 16, 2022, the House of 
+Representatives passed the bill under a suspension of the rules 
+by a vote of 386 to 31. The bill was referred to the Senate 
+Committee on Homeland Security and Governmental Affairs.
+    The Committee considered H.R. 6824 at a business meeting on 
+September 28, 2022. During the business meeting, Senators 
+Portman (R-OH) and Peters (D-MI) offered a modified substitute 
+amendment that struck a provision pertaining to consultation on 
+the design of the competition. The substitute amendment also 
+clarified provisions regarding how funds for the competition 
+are allowed to be spent, including an overall yearly award 
+limit of $100,000. The Portman-Peters substitute amendment, as 
+modified, was adopted by voice vote en bloc with Senators 
+Peters, Carper, Hassan, Sinema, Rosen, Padilla, Ossoff, 
+Portman, Johnson, Paul, Lankford, Romney, Scott, and Hawley 
+present for the vote. The Committee ordered the bill, as 
+amended, to be favorably reported by voice vote en bloc. 
+Senators present for the vote were: Peters, Carper, Hassan, 
+Sinema, Rosen, Padilla, Ossoff, Portman, Johnson, Paul, 
+Lankford, Romney, Scott, and Hawley.
+    Consistent with Committee Rule 3(G), the Committee reports 
+the bill with a technical amendment by mutual agreement of the 
+Chairman and Ranking Member.
+
+        IV. SECTION-BY-SECTION ANALYSIS OF THE BILL, AS REPORTED
+
+Section. 1. Short title
+
+    This section states that the Act may be cited as the 
+``President's Cup Cybersecurity Competition Act''.
+
+Section. 2. President's Cup cybersecurity competition
+
+    Subsection (a) directs CISA to hold an annual cybersecurity 
+competition of cybersecurity practitioners from across the 
+Federal Government.
+    Subsection (b) establishes that an individual must be a 
+Federal civilian employee or member of the uniformed services 
+to be eligible for the competition.
+    Subsection (c) authorizes CISA to enter into a grant, 
+contract, cooperative agreement, or other agreement to 
+administer the competition.
+    Subsection (d) directs that the competition shall include 
+cybersecurity skills outlined in the National Initiative for 
+Cybersecurity Education Framework, individual or team events, 
+categories demonstrating offensive and defensive cyber 
+operations, and other related elements identified by CISA.
+    Subsection (e) authorizes CISA to use appropriated funds or 
+funds provided by other Federal agencies for specified expenses 
+in order to carry out the competition. Specified expenses 
+include advertising, marketing, and promoting the competition; 
+meals for participants and organizers; promotional items; 
+necessary expenses for honorary recognition of competition 
+participants; and monetary and nonmonetary awards for 
+participants.
+    Subsection (f) authorizes CISA to provide awards up to 
+$10,000 in value per award and DHS to provide awards up to 
+$25,000 in value per award. It additionally establishes that 
+any monetary award shall be in addition to the regular pay of 
+the recipient and establishes an annual limit of $100,000 for 
+the total value of awards provided by the competition.
+    Subsection (g) directs CISA to provide an annual report to 
+the Senate Committee on Homeland Security and Governmental 
+Affairs and the House Committee on Homeland Security that 
+provides a description of funds used for each competition, a 
+description of expenditures of awards for each competition, 
+information relating to participation of each competition, and 
+information relating to lessons learned from each competition.
+
+                   V. EVALUATION OF REGULATORY IMPACT
+
+    Pursuant to the requirements of paragraph 11(b) of rule 
+XXVI of the Standing Rules of the Senate, the Committee has 
+considered the regulatory impact of this bill and determined 
+that the bill will have no regulatory impact within the meaning 
+of the rules. The Committee agrees with the Congressional 
+Budget Office's statement that the bill contains no 
+intergovernmental or private-sector mandates as defined in the 
+Unfunded Mandates Reform Act (UMRA) and would impose no costs 
+on state, local, or tribal governments.
+
+             VI. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+
+                                     U.S. Congress,
+                               Congressional Budget Office,
+                                  Washington, DC, October 17, 2022.
+Hon. Gary C. Peters,
+Chairman, Committee on Homeland Security and Governmental Affairs, U.S. 
+        Senate, Washington, DC.
+    Dear Mr. Chairman: The Congressional Budget Office has 
+prepared the enclosed cost estimate for H.R. 6824, the 
+President's Cup Cybersecurity Competition Act.
+    If you wish further details on this estimate, we will be 
+pleased to provide them. The CBO staff contact is Aldo 
+Prosperi.
+            Sincerely,
+                                         Phillip L. Swagel,
+                                                          Director.
+    Enclosure.
+
+    
+    
+
+    H.R. 6824 would authorize the Cybersecurity and 
+Infrastructure Security Agency (CISA) to conduct an awards 
+competition for the federal cybersecurity workforce. Under the 
+bill, CISA would award financial prizes to federal employees 
+who apply technical skills to solve real-world cybersecurity 
+scenarios. The bill also would require CISA to report to the 
+Congress on the effectiveness of the competition.
+    CISA is already operating the President's Cup Cybersecurity 
+Competition that would be required by H.R. 6824; thus, the bill 
+would not impose any new requirements on the agency. CBO 
+estimates that preparing and delivering the reports required by 
+H.R. 6824 would cost less than $500,000 over the 2023-2027 
+period; such spending would be subject to the availability of 
+appropriated funds.
+    On April 27, 2022, CBO transmitted a cost estimate for H.R. 
+6824, the President's Cup Cybersecurity Competition Act, as 
+ordered reported by the House Committee on Homeland Security on 
+March 2, 2022. The two bills are similar, and CBO's estimates 
+of their costs are the same.
+    The CBO staff contact for this estimate is Aldo Prosperi. 
+The estimate was reviewed by Leo Lex, Deputy Director of 
+Budget.
+
+       VII. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+
+    This legislation would make no change in existing law, 
+within the meaning of clauses (a) and (b) of subparagraph 12 of 
+rule XXVI of the Standing Rules of the Senate, because this 
+legislation would not repeal or amend any provision of current 
+law.
+
+                                  [all]

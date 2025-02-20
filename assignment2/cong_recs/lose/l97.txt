@@ -1,0 +1,429 @@
+[Senate Report 117-237]
+[From the U.S. Government Publishing Office]
+
+
+                                                     Calendar No. 615
+117th Congress       }                         {           Report
+                                 SENATE
+ 2d Session          }                         {           117-237
+_______________________________________________________________________
+
+
+        NATIONAL CLIMATE ADAPTATION AND RESILIENCE STRATEGY ACT
+
+                               __________
+
+                              R E P O R T
+
+                                 of the
+
+                   COMMITTEE ON HOMELAND SECURITY AND
+
+                          GOVERNMENTAL AFFAIRS
+
+                          UNITED STATES SENATE
+
+                              to accompany
+
+                                S. 3531
+
+              TO REQUIRE THE FEDERAL GOVERNMENT TO PRODUCE
+              A NATIONAL CLIMATE ADAPTATION AND RESILIENCE
+                    STRATEGY, AND FOR OTHER PURPOSES
+
+		[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+
+               December 12, 2022.--Ordered to be printed
+               
+               
+               		       __________
+               		       
+               		       
+               	    U.S. GOVERNMENT PUBLISHING OFFICE     
+
+39-010			   WASHINGTON : 2022               	     
+               
+               
+               
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           ROB PORTMAN, Ohio
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              RAND PAUL, Kentucky
+JACKY ROSEN, Nevada                  JAMES LANKFORD, Oklahoma
+ALEX PADILLA, California             MITT ROMNEY, Utah
+JON OSSOFF, Georgia                  RICK SCOTT, Florida
+                                     JOSH HAWLEY, Missouri
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+            Lena C. Chang, Director of Governmental Affairs
+              Chelsea A. Davis, Professional Staff Member
+                Pamela Thiessen, Minority Staff Director
+            Sam J. Mulopulos, Minority Deputy Staff Director
+       Cara G. Mumford, Minority Director of Governmental Affairs
+                     Laura W. Kilbride, Chief Clerk
+
+                                                     Calendar No. 615
+117th Congress       }                         {           Report
+                                 SENATE
+ 2d Session          }                         {           117-237
+
+======================================================================
+
+
+
+ 
+        NATIONAL CLIMATE ADAPTATION AND RESILIENCE STRATEGY ACT
+
+                                _______
+                                
+
+               December 12, 2022.--Ordered to be printed
+
+                                _______
+                                
+
+ Mr. Peters, from the Committee on Homeland Security and Governmental 
+                    Affairs, submitted the following
+
+                              R E P O R T
+
+                         [To accompany S. 3531]
+
+      [Including cost estimate of the Congressional Budget Office]
+
+    The Committee on Homeland Security and Governmental 
+Affairs, to which was referred the bill (S. 3531) to require 
+the Federal Government to produce a national climate adaption 
+and resilience strategy, and for other purposes, having 
+considered the same, reports favorably thereon with an 
+amendment, in the nature of a substitute, and recomends that 
+the bill, as amended, do pass.
+
+                                CONTENTS
+
+                                                                   Page
+  I. Purpose and Summary..............................................1
+ II. Background and Need for the Legislation..........................2
+III. Legislative History..............................................2
+ IV. Section-by-Section Analysis......................................3
+  V. Evaluation of Regulatory Impact..................................5
+ VI. Congressional Budget Office Cost Estimate........................5
+VII. Changes in Existing Law Made by the Bill, as Reported............8
+
+                         I. PURPOSE AND SUMMARY
+
+    S. 3531, the National Climate Adaptation and Resilience 
+Strategy Act of 2022, provides an obligation for the Federal 
+Government to implement a unified strategy that coordinates 
+efforts across all agencies in adapting to climate change. To 
+ensure the obligation is fulfilled, the bill creates a Chief 
+Resilience Officer of the United States position, establishes 
+interagency resilience Working Groups, and requires a National 
+Climate Adaptation and Resilience Strategy that will improve 
+preparations nationwide for climate change, includes 
+recommendations to compensate for the inequities in policy and 
+resource allocations, and decrease the harm of climate change 
+to human health and wellbeing in America.
+
+              II. BACKGROUND AND THE NEED FOR LEGISLATION
+
+    Frontline communities face an increasing range of climate 
+induced risks that pose a threat to property, local 
+infrastructure, and human wellbeing. As the consequences of 
+climate change continue to manifest, whether through record-
+breaking natural disasters, or less observable but equally 
+devastating slow-onset climate hazards, enhancing resilience 
+has become increasingly essential.
+    In many cases, Congress has provided federal agencies with 
+dedicated resources and authorities to support for local 
+climate adaptation efforts, but agencies often operate 
+independently of one another. The fragmented nature of federal 
+resilience operations is inefficient and unnecessarily burdens 
+non-federal partners attempting to access resources and receive 
+other support. Improved federal coordination could ensure 
+investments maximize the resilience benefits for vulnerable 
+communities and infrastructure, as well as improve the 
+effectiveness and efficiency of service delivery for eligible 
+communities and populations.
+    The National Climate Adaptation and Resilience Strategy Act 
+of 2022 (the NCARS Act) would require the federal government to 
+produce a national climate adaptation and resilience strategy 
+representing a unified federal plan to increase the resilience 
+of America's frontline communities. It would instruct the 
+federal government to create an implementation plan to ensure 
+the strategy is effectively translated into improved and 
+streamlined federal adaptation operations. The NCARS Act would 
+also authorize a chief resilience officer position in the White 
+House, following successful models adopted by nearly a dozen 
+states, including Florida\1\, Louisiana\2\, and South 
+Carolina\3\.
+---------------------------------------------------------------------------
+    \1\Associated Press, DeSantis appoints new Florida chief resilience 
+officer (Nov. 20, 2021), https://apnews.com/article/climate-donald-
+trump-florida-environment-ron-desantis-
+e40102bdcb145f0b739897a91bf5da63.
+    \2\Office of the Louisiana Governor, Governor's Office of Coastal 
+Activities (accessed Nov. 17, 2022), https://gov.louisiana.gov/page/
+governors-office-of-coastal-activities.
+    \3\Office of the Governor of South Carolina, Gov. Henry McMaster 
+Names South Carolina's First Chief Resilience Officer (Mar. 9, 2021), 
+https://governor.sc.gov/news/2021-03/gov-henry-mcmaster-names-south-
+carolinas-first-chief-resilience-officer.
+---------------------------------------------------------------------------
+
+                        III. LEGISLATIVE HISTORY
+
+    Senator Chris Coons (D-DE) introduced S. 3531, the National 
+Climate Adaptation and Resilience Strategy Act of 2022, with 
+Senator Lisa Murkowski (R-AK), on January 20, 2022. The bill 
+was referred to the Committee on Homeland Security and 
+Governmental Affairs. Senator Susan Collins (R-ME), Senator 
+Jacky Rosen (D-NV), and Senator Bill Cassidy (R-LA) joined as 
+original cosponsors. The bill was later cosponsored by Senator 
+Lindsey Graham (R-SC), Senator Michael Bennet (D-CO), Senator 
+Jeanne Shaheen (D-NH), Senator Tim Kaine (D-VA), and Senator 
+Alex Padilla (D-CA).
+    The Committee considered S. 3531 at a business meeting on 
+September 28, 2022. During the business meeting, an amendment 
+in the nature of a substitute was offered by Chairman Peters 
+clarifying intent and incorporating technical assistance from 
+the Office of Management and Budget and Council on 
+Environmental Quality. Senator Scott filed, but did not offer, 
+an amendment striking the authorization of appropriations 
+provision and instead requiring the Executive Office of the 
+President to use existing funds to carry out the bill's 
+requirements. Chairman Peters offered a modified substitute 
+amendment incorporating Senator Scott's desire to eliminate the 
+bill's authorization of new appropriations and it was adopted 
+by voice vote en bloc. The bill, as amended, was ordered 
+reported favorably by voice vote. Senators Peters, Carper, 
+Hassan, Sinema, Rosen, Padilla, Ossoff, Portman, Johnson, Paul, 
+Lankford, Romney, Scott, and Hawley were present. Senators 
+Romney, Lankford, and Hawley were recorded ``No.''
+
+        IV. SECTION-BY-SECTION ANALYSIS OF THE BILL, AS REPORTED
+
+Section 1. Short title
+
+    This bill will be referred to as the National Climate 
+Adaptation and Resilience Strategy Act or the NCARS Act.
+
+Section 2. National Climate Adaptation and Resilience Strategy
+
+            Part (a): Definitions
+    This section defines several terms relevant to the bill, 
+including adaptive capacity, frontline communities, and slow-
+onset climate hazard.
+            Part (b): Chief Resilience Officer and National Climate 
+                    Adaptation and Resilience Working Groups
+    Section 2(b)(1) directs the President to appoint a Chief 
+Resilience Officer of the United States to lead the whole-of-
+government effort to build resilience to climate change and 
+establish the National Climate Adaptation and Resilience 
+Working Groups (Working Groups) described in subsection 
+2(b)(2). At the end of a Presidential administration, the Chief 
+Resilience Officer will delegate their duties to the Executive 
+Secretary of the Working Groups. The Chief Resilience Officer 
+shall be compensated by the Federal Government at level III of 
+the Executive Schedule.
+    Section 2(b)(2) directs the Chief Resilience Officer to 
+establish up to five Working Groups to help coordinate the 
+production of the Operations Report described in section 2(d) 
+and the Strategy and Implementation Plan described in 2(e). 
+This section further instructs the Chief Resilience Officer to 
+identify the federal agencies relevant to the focus of each 
+Working Group and appoint a representative with resilience 
+expertise from each relevant agency to serve as a member of the 
+group. This section also contains details about the minimum 
+frequency of Working Group meetings and support personnel for 
+the groups. The Working Groups will assist in the 
+standardization across represented agencies of, with respect to 
+climate change, the term ``resilience'' to promote greater 
+consistency in Federal resilience leadership. The Chief 
+Resilience Officer may designate as chairperson of a Working 
+Group the head of a represented agency that serves on that 
+Working Group.
+            Part (c): Partners Council on Climate Adaptation and 
+                    Resilience
+    Section 2(c)(1) establishes a Partners Council on Climate 
+Adaptation and Resilience (Council).
+    The purpose of the Council outlined in section 2(c)(2) is 
+to provide the Chief Resilience Officer and Working Groups with 
+recommendations for how the federal government can better 
+support vulnerable frontline communities.
+    Section 2(c)(3) outlines that the Council will provide a 
+report to the President and Working Groups within 16 months of 
+enactment, and triennially thereafter, that details: observed 
+deficiencies in federal resilience operations, the resources 
+necessary for local communities to adequately adapt to climate 
+change, and other recommendations to support non-federal 
+partner resilience efforts.
+    Section 2(c)(4) establishes the Chief Resilience Officer as 
+the chair of the Council. This section also directs the Chief 
+Resilience Officer to appoint a vice-chair from the described 
+members.
+    Section 2(c)(5) stipulates that 20 members of the Council 
+shall be appointed by the Chief Resilience Officer and will 
+support the mission of the Council and meet certain 
+distribution criteria relating to the sector each member 
+represents. The Chief Resilience Officer will also prioritize 
+the appointment of individuals who--to the maximum extent 
+practicable--have first-hand experience of climate 
+vulnerability in the U.S., represent a diversity of 
+backgrounds, and represent a diversity of U.S. geographies. 
+This section also describes the term limits and procedures to 
+fill Council vacancies. The Chief Resilience Officer may, with 
+the consent of those representatives, appoint not more than 3 
+representatives of represented agencies to the Council that the 
+Chief Resilience Officer determines would promote dialogue 
+useful for implementation.
+    Section 2(c)(6) describes certain details relating to 
+Council meetings, including frequency and the ability for 
+remote participation.
+    Section 2(c)(7) states that Section 14 of the Federal 
+Advisory Committee Act does not apply to the Council.
+            Part (d): National Climate Adaptation and Resilience 
+                    Operations Report
+    This section directs the Chief Resilience Officer and 
+Working Groups to submit a report to the President and Congress 
+within 16 months of enactment, and triennially thereafter, 
+detailing the climate resilience operations of each federal 
+agency represented on any Working Group. The report must 
+include a summary of resilience funding available from each 
+represented agency. As part of the report, the Chief Resilience 
+Officer and Working Groups must also develop a cross-agency 
+analysis that identifies deficiencies, overlap, gaps, 
+inconsistencies, and opportunities for increased coordination 
+around resilience operations between the represented agencies 
+to improve the whole-of-government response to climate change 
+and support the production of the National Climate Adaptation 
+and Resilience Strategy required in Section 6.
+            Part (e): National Climate Adaptation and Resilience 
+                    Strategy
+    This section requires the Chief Resilience Officer and 
+Working Groups to prepare a National Climate Adaptation and 
+Resilience Strategy (Strategy) within three years of enactment, 
+to be updated triennially, which must present an overarching 
+strategic vision and specific strategies for how the federal 
+government will address the threats of climate change in the 
+U.S., taking into account recommendations from the Partners 
+Council established in Section 4. This section also outlines a 
+number of specific considerations the Chief Resilience Officer 
+and Working Groups must address as part of the Strategy, 
+including: a direct federal government response to climate 
+change; support of non-federal partners' response to climate 
+change; climate information; resilience metrics and indicators; 
+funding climate adaptation; and social equity.
+    Section 2(e)(2) directs the Chief Resilience Officer and 
+Working Groups to develop an Implementation Plan concurrently 
+with each iteration of the Strategy, which must describe the 
+roles and responsibilities of each agency in carrying out the 
+Strategy, any interagency agreements devised to carry out 
+portions of the Strategy, and any metrics and indicators used 
+to track the federal government's progress and success in 
+implementing the Strategy.
+    Section 2(e)(3) Congress requires the Government 
+Accountability Office to submit a report to the President and 
+Congress within 2 years of each iteration of the Strategy and 
+Implementation Plan that assesses the extent to which the 
+Strategy and Implementation Plan have been carried out by the 
+federal government and the progress made towards developing an 
+effective whole-of-government effort to build resilience to 
+climate change.
+    Section 2(e)(4) requires the Chief Resilience Officer to 
+publish drafts of the Strategy and Implementation Plan and 
+solicit comments from the public for the Working Groups to 
+consider before publishing final versions of the reports.
+            Part (f): General Provisions
+    This section sunsets the Act after the publication of the 
+third Government Accountability Office assessment or on the 
+last day of fiscal year 2033, whichever comes first.
+
+                   V. EVALUATION OF REGULATORY IMPACT
+
+    Pursuant to the requirements of paragraph 11(b) of rule 
+XXVI of the Standing Rules of the Senate, the Committee has 
+considered the regulatory impact of this bill and determined 
+that the bill will have no regulatory impact within the meaning 
+of the rules. The Committee agrees with the Congressional 
+Budget Office's statement that the bill contains no 
+intergovernmental or private-sector mandates as defined in the 
+Unfunded Mandates Reform Act (UMRA) and would impose no costs 
+on state, local, or tribal governments.
+
+             VI. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+
+                                      U.S Congress,
+                               Congressional Budget Office,
+                                  Washington, DC, November 9, 2022.
+Hon. Gary C. Peters,
+Chairman, Committee on Homeland Security and Governmental Affairs, U.S. 
+        Senate, Washington, DC.
+    Dear Mr. Chairman: The Congressional Budget Office has 
+prepared the enclosed table summarizing estimated budgetary 
+effects and mandates information for some of the legislation 
+that has been ordered reported by the Senate Committee on 
+Homeland security and Governmental Affairs during the 117th 
+Congress.
+    If you wish further details, we will be pleased to provide 
+them. The CBO staff contact for each estimate is listed on the 
+enclosed table.
+            Sincerely,
+                                         Phillip L. Swagel,
+                                                          Director.
+    Enclosure.
+
+           SUMMARY ESTIMATES OF LEGISLATION ORDERED REPORTED
+
+    The Congressional Budget Act of 1974 requires the 
+Congressional Budget Office, to the extent practicable, to 
+prepare estimates of the budgetary effects of legislation 
+ordered reported by Congressional authorizing committees. In 
+order to provide the Congress with as much information as 
+possible, the attached table summarizes information about the 
+estimated direct spending and revenue effects of some of the 
+legislation that has been ordered reported by the Senate 
+Committee on Homeland Security and Governmental Affairs during 
+the 117th Congress. The legislation listed in this table 
+generally would have small effects, if any, on direct spending 
+or revenues, CBO estimates. Where possible, the table also 
+provides information about the legislation's estimated effects 
+on spending subject to appropriation and on intergovernmental 
+and private-sector mandates as defined in the Unfunded Mandates 
+Reform Act.
+
+                                                                      ESTIMATED BUDGETARY EFFECTS AND MANDATES INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                           Increases On-
+                                                                                                                          Spending Subject   Pay-As-You-       Budget
+   Bill          Title         Status        Last Action       Budget Function    Direct  Spending,   Revenues,  2023-   to Appropriation,        Go         Deficits      Mandates     Contact
+  Number                                                                              2023-2032             2032             2023-2027        Procedures   Beginning in
+                                                                                                                                                Apply?         2033?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+S. 3531     National        Ordered               09/28/22                 800    Between zero and                   0   Not estimated      Yes            No            No           Matthew
+             Climate         reported                                                     $500,000                                                                                     Pickford
+             Adaptation
+             and
+             Resilience
+             Strategy Act
+             of 2022
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+S. 3531 would require the federal government to produce the National Climate Adaptation and Resilience Strategy to address vulnerabilities of federal agencies to climate change. The bill also
+  would establish the position of Chief Resilience Officer and would authorize working groups to coordinate efforts between agencies to adapt to climate change. The Government Accountability
+  Office would assess both the strategy and its implementation within two years of completion. CBO estimates that enacting S. 3531 would have an insignificant effect on direct spending and no
+  effect on revenues over the 2023-2032 period. CBO has not estimated the discretionary costs of implementing S. 3531. The bill contains no intergovernmental or private-sector mandates as
+  defined in the Unfunded Mandates Reform Act.
+
+       VII. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+
+    This legislation would make no change in existing law, 
+within the meaning of clauses (a) and (b) of subparagraph 12 of 
+rule XXVI of the Standing Rules of the Senate, because this 
+legislation would not repeal or amend any provision of current 
+law.
+
+                                  [all]

@@ -1,0 +1,445 @@
+[House Report 117-544]
+[From the U.S. Government Publishing Office]
+
+
+117th Congress    }                                    {        Report
+                        HOUSE OF REPRESENTATIVES
+ 2d Session       }                                    {       117-544
+
+======================================================================
+
+ 
+   RESOLUTION OF INQUIRY REQUESTING THE PRESIDENT AND DIRECTING THE 
+ ATTORNEY GENERAL TO TRANSMIT, RESPECTIVELY, CERTAIN DOCUMENTS TO THE 
+             HOUSE OF REPRESENTATIVES RELATING TO RAY EPPS
+
+                                _______
+                                
+
+  October 14, 2022.--Referred to the House Calendar and ordered to be 
+                                printed
+
+                                _______
+                                
+
+    Mr. Nadler, from the Committee on the Judiciary, submitted the 
+                               following
+
+                             ADVERSE REPORT
+
+                             together with
+
+                             MINORITY VIEWS
+
+                      [To accompany H. Res. 1356]
+
+    The Committee on the Judiciary, to whom was referred the 
+resolution (H. Res. 1356) of inquiry requesting the President 
+and directing the Attorney General to transmit, respectively, 
+certain documents to the House of Representatives relating to 
+Ray Epps, having considered the same, report unfavorably 
+thereon with an amendment and recommend that the resolution not 
+be agreed to.
+
+                                CONTENTS
+
+                                                                   Page
+Purpose and Summary..............................................     2
+Background and Need for the Legislation..........................     2
+Hearings.........................................................     4
+Committee Consideration..........................................     4
+Committee Votes..................................................     4
+Committee Oversight Findings.....................................     6
+Committee Estimate of Budgetary Effects..........................     6
+New Budget Authority and Congressional Budget Office Cost 
+  Estimate.......................................................     6
+Duplication of Federal Programs..................................     6
+Performance Goals and Objectives.................................     6
+Advisory on Earmarks.............................................     6
+Section-by-Section Analysis......................................     6
+Minority Views...................................................     6
+
+  Strike all that follows after the resolving clause and insert 
+the following:
+
+  That President Joseph R. Biden is requested, and Attorney General 
+Merrick B. Garland are directed, to transmit, respectively, to the 
+House of Representatives, not later than 14 days after the date of the 
+adoption of this resolution, copies of all documents, memoranda, 
+advisory legal opinions, notes from meetings, audio recordings, records 
+(including telephone and electronic mail records), correspondence, and 
+other communications, or any portion of any such communications, to the 
+extent that any such one or more items are within the possession of 
+President Joseph R. Biden or Attorney General Merrick B. Garland, 
+respectively, and refer to Ray Epps.
+
+                          Purpose and Summary
+
+    H. Res. 1356 is a non-binding resolution of inquiry that 
+requests President Joe Biden and directs Attorney General 
+Merrick Garland to provide certain documents to the House of 
+Representatives relating to Ray Epps.
+
+                Background and Need for the Legislation
+
+    Resolutions of inquiry, if properly drafted, are given 
+privileged parliamentary status in the House. This means that, 
+under certain circumstances, a resolution of inquiry can be 
+considered on the House floor even if the committee to which it 
+was referred has not ordered the resolution reported and the 
+majority party's leadership has not scheduled it for 
+consideration. Clause 7 of rule XIII of the Rules of the House 
+of Representatives requires the committee to which the 
+resolution is referred to act on the resolution within 14 
+legislative days, or a motion to discharge the committee from 
+consideration is considered privileged on the floor of the 
+House. In calculating the days available for committee 
+consideration, the day of introduction and the day of discharge 
+are not counted.\1\ The 117th Congress operated under temporary 
+procedures ``that effectively `turned off' the 14-day 
+deadline'' for resolutions of inquiry until July 19, 2022.\2\
+---------------------------------------------------------------------------
+    \1\Wm. Holmes Brown, et al., House Practice: A Guide to the Rules, 
+Precedents, and Procedures of the House ch. 49, Sec. 6, p. 834 (2011).
+    \2\Christopher M. Davis, Resolutions of Inquiry in the House, Cong. 
+Rsch. Serv. 1 (Jul. 21, 2022), https://crsreports.congress.gov/product/
+pdf/IN/IN10661/4.
+---------------------------------------------------------------------------
+    Under the Rules and precedents of the House, a resolution 
+of inquiry is a means by which the House requests information 
+from the President of the United States or the head of one of 
+the executive departments. According to Deschler's Precedents, 
+it is a ``simple resolution making a direct request or demand 
+of the President or the head of an executive department to 
+furnish the House of Representatives with specific factual 
+information in the possession of the executive branch.''\3\ 
+Such resolutions must ask for facts, documents, or specific 
+information; they may not be used to request an opinion or 
+require an investigation.\4\ Resolutions of inquiry are not 
+akin to subpoenas; they have no legal force and thus compliance 
+by the Executive Branch with the House's request for 
+information is purely voluntary.
+---------------------------------------------------------------------------
+    \3\7 Deschler's Precedents of the United States House of 
+Representatives, H. Doc. No. 94-661, 94th Cong., 2d Sess., ch. 24, 
+Sec.  8.
+    \4\A resolution that seeks more than factual information does not 
+enjoy privileged status. Brown, supra note 1, at 833-34.
+---------------------------------------------------------------------------
+    According to a study conducted by the Congressional 
+Research Service (CRS), between 1947 and 2017, 313 resolutions 
+of inquiry were introduced in the House.\5\ Within this period, 
+CRS found that ``two periods in particular, 1971-1975 and 2003-
+2006, saw the highest levels of activity on resolutions of 
+inquiry'' and that ``the Committees on Armed Services, Foreign 
+Affairs, and the Judiciary have received the largest share of 
+references.''\6\ CRS further found that ``in recent Congresses, 
+such resolutions have overwhelmingly become a tool of the 
+minority party in the House.''\7\
+---------------------------------------------------------------------------
+    \5\Christopher M. Davis, Resolutions of Inquiry: An Analysis of 
+Their Use in the House, 1947-2017, Cong. Rsch. Serv. R40879, at i (Nov. 
+9, 2017), https://sgp.fas.org/crs/secrecy/R40879.pdf.
+    \6\Id.
+    \7\Id.
+---------------------------------------------------------------------------
+    A Committee has a number of choices after a resolution of 
+inquiry is referred to it. It may vote on the resolution up or 
+down as introduced or it may amend it, and it may report the 
+resolution favorably, unfavorably, or with no recommendation. 
+The fact that a committee reports a resolution of inquiry 
+adversely does not necessarily mean that the committee opposes 
+looking into the matter. In the past, resolutions of inquiry 
+have frequently been reported adversely for several reasons. 
+The two most common reasons are substantial compliance and 
+competing investigations.
+    H. Res. 1356 was introduced by Representative Paul Gosar 
+(R-AZ) on September 15, 2022. The resolution seeks information 
+related to Ray Epps in the possession of the President and the 
+Attorney General.
+    The individual that is the focus of this resolution of 
+inquiry is the subject of a baseless conspiracy theory that 
+alleges he was an FBI plant in the crowd on January 6, 2021, 
+who instigated the assault on the U.S. Capitol.\8\
+---------------------------------------------------------------------------
+    \8\Alan Feuer, A Trump Backer's Downfall as the Target of a Jan. 6 
+Conspiracy Theory, New York Times (Jul. 13, 2022).
+---------------------------------------------------------------------------
+    Ray Epps was a Donald Trump supporter who traveled from 
+Arizona to Washington, D.C. to participate in the January 6th 
+rally. Right-wing message boards, conservative media, former 
+President Trump, and some Members of Congress have spread an 
+alternative narrative alleging that Mr. Epps, acting on behalf 
+of the government, was responsible for the insurrection by 
+egging on otherwise peaceful Trump supporters.\9\ As a result 
+of this misinformation, Mr. Epps has received death threats, 
+has lost his business, and has been forced to move away from 
+his home in Arizona.\10\ This resolution, rather than seeking 
+information that would move the January 6th investigation 
+forward, instead would perpetuate this conspiracy theory and 
+bring further harm to Mr. Epps.
+---------------------------------------------------------------------------
+    \9\Id.
+    \10\Id.
+---------------------------------------------------------------------------
+    In addition to serving as an opportunity to further spread 
+misinformation, this resolution of inquiry is a waste of this 
+Committee's valuable time and resources. The January 6th 
+Committee interviewed Mr. Epps twice in connection with its 
+overall investigation of the insurrection.\11\ A Republican on 
+that Committee, Representative Adam Kinzinger (R-IL) said, 
+``The narrative on Jan. 6 has been that it's first antifa, or 
+patriots who love their country, maybe crisis actors, def false 
+flag operatives, or now FBI agents . . . Take your pick. Truth 
+is they were rioters incited by lies. And RAY is no fed. Just 
+another misled man.''\12\
+---------------------------------------------------------------------------
+    \11\Id.
+    \12\David Knowles, ``Rep. Kinzinger looks to put the Ray Epps 
+conspiracy theory to bed once and for all,'' Yahoo (Jan. 12, 2022).
+---------------------------------------------------------------------------
+    By focusing the narrative on a disproven conspiracy theory, 
+Donald Trump, some Republicans in Congress, and conservative 
+media personalities are refocusing the conversation around 
+January 6th on a single man, supposedly representing the 
+government, and away from the mistakes of Republicans who 
+spurred the attack. The thesis that the insurrection was a 
+protest that got out of control--one that could be influenced 
+by a single man--is not backed up by the facts.
+    The insurrectionists at the Capitol on January 6th came 
+prepared for an attack. The insurrection was well documented, 
+both in media coverage and through participants' cell phone 
+recordings. These videos clearly show the crowd outside the 
+Capitol was armed and prepared to engage in violence. 
+Furthermore, the January 6th Committee has discovered that far-
+right extremist members of the Oath Keepers stashed weapons 
+around the DC area in advance of the march on the Capitol.\13\
+---------------------------------------------------------------------------
+    \13\Alexander Mallin and Will Steakin, ``Oath Keepers stashed 
+weapons at hotel for potential Jan. 6 violence, prosecutors indicate,'' 
+ABCNews (Apr. 13, 2022).
+---------------------------------------------------------------------------
+    Conspiracy theories like the one at the heart of H. Res. 
+1356 are designed to excuse people who break the law, just 
+because they broke the law in support of former President 
+Donald Trump. Many of the over-390 people who have pleaded 
+guilty to their role in the insurrection have cited loyalty to 
+Donald Trump as the driving reason behind the attack on the 
+Capitol.\14\ These individuals believed they were acting on 
+behalf of Donald Trump--not Ray Epps. The resolution also keeps 
+the American public from getting to the truth by diverting 
+focus away from the fact-finders on the January 6th Committee 
+and potentially interfering with ongoing criminal 
+investigations.
+---------------------------------------------------------------------------
+    \14\Madison Hall, ``396 rioters have pleaded guilty for their role 
+in the Capitol insurrection so far. This table is tracking them all,'' 
+Yahoo (Sep. 21, 2022).
+---------------------------------------------------------------------------
+    The Judiciary Committee will investigate any credible 
+allegations of misconduct by the Executive Branch to the extent 
+such allegations fall within this Committee's jurisdiction. 
+However, the Committee will not do so through politically 
+charged resolutions of inquiry that could jeopardize the 
+integrity of ongoing investigations. The Judiciary Committee 
+and the House overall should not needlessly request information 
+that furthers conspiracy theories and moves us away from the 
+truth.
+
+                                Hearings
+
+    The Committee on the Judiciary held no hearings on H. Res. 
+1356.
+
+                        Committee Consideration
+
+    On September 21, 2022, the Committee met in open session 
+and ordered the resolution, H. Res. 1356, unfavorably reported 
+with an amendment by a rollcall vote of 22 to 13, a quorum 
+being present.
+
+                            Committee Votes
+
+    In compliance with clause 3(b) of House rule XIII, the 
+following rollcall vote occurred during the Committee's 
+consideration of H. Res. 1356:
+    1. A motion to report H. Res. 1356 unfavorably passed by a 
+rollcall vote of 23 to 13. The vote was as follows:
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                      Committee Oversight Findings
+
+    In compliance with clause 3(c)(1) of House rule XIII, the 
+Committee advises that the findings and recommendations of the 
+Committee, based on oversight activities under clause 2(b)(1) 
+of House rule X, are incorporated in the descriptive portions 
+of this report.
+
+                Committee Estimate of Budgetary Effects
+
+    Pursuant to clause 3(d)(1) of House rule XIII, the 
+Committee adopts as its own the cost estimate prepared by the 
+Director of the Congressional Budget Office pursuant to section 
+402 of the Congressional Budget Act of 1974.
+
+   New Budget Authority and Congressional Budget Office Cost Estimate
+
+    Pursuant to clause 3(c)(2) of House rule XIII and section 
+308(a) of the Congressional Budget Act of 1974, and pursuant to 
+clause 3(c)(3) of House rule XIII and section 402 of the 
+Congressional Budget Act of 1974, the Committee has requested 
+by not received from the Director of the Congressional Budget 
+Office a budgetary analysis and a cost estimate of this 
+resolution.
+
+                    Duplication of Federal Programs
+
+    Pursuant to clause 3(c)(5) of House rule XIII, no provision 
+of H. Res. 1356 establishes or reauthorizes a program of the 
+federal government known to be duplicative of another federal 
+program.
+
+                    Performance Goals and Objectives
+
+    The Committee states that pursuant to clause 3(c)(4) of 
+House rule XIII, H. Res. 1356 requests President Biden and 
+directs Attorney General Garland to transmit to the House of 
+Representatives documents relating to Ray Epps.
+
+                          Advisory on Earmarks
+
+    In accordance with clause 9 of House rule XXI, H. Res. 1356 
+does not contain any congressional earmarks, limited tax 
+benefits, or limited tariff benefits as defined in clause 9(e), 
+9(f), or 9(g) of rule XXI.
+
+                      Section-by-Section Analysis
+
+    The following discussion describes the resolution as 
+reported by the Committee.
+    H. Res. 1356, a non-binding resolution of inquiry, requests 
+President Joe Biden and directs Attorney General Merrick 
+Garland to transmit to the House of Representatives documents 
+relating to Ray Epps.
+
+                             Minority Views
+
+    H. Res. 1356 requests the President and directs the 
+Attorney General, respectively, to provide the House of 
+Representatives with documents and communications in their 
+possession referring to Ray Epps.
+    Questions remain concerning Ray Epps's actions prior to the 
+events at the U.S. Capitol on January 6, 2021. In a video taken 
+on January 5, Epps appeared to encourage people to go into the 
+Capitol the following day, shouting, ``We need to go into the 
+Capitol'' and ``I'm probably going to go to jail for it, OK? 
+Tomorrow, we need to go into the Capitol.''\1\ The video also 
+shows the crowd around Epps chanting, ``fed''--implying that 
+the crowd believed Epps was a federal agent or was working on 
+behalf of a federal law-enforcement agency. There are also 
+videos of Epps on January 6, 2021, standing outside the Capitol 
+speaking with other protestors just before the crowd began to 
+move past the barricades and towards the Capitol.\2\ Epps was 
+reportedly on the FBI's Most Wanted list in connection with the 
+events of January 6 but was removed from the list on July 1, 
+2021, for unknown reasons.\3\
+---------------------------------------------------------------------------
+    \1\Miss N0b0dy (@MissN0b0dy1), Twitter, (Jan. 5, 2021, 10:31 PM), 
+https://twitter.com/MissN0b0dy1/status/1346660587636477954.
+    \2\Anne Ryman, Arizona man went to Washington day of Capitol riot, 
+appears to talk about plans in video, AZ Central (Jan. 11, 2021), 
+https://www.azcentral.com/story/news/local/arizona/2021/01/11/fbi-
+capitol-investigation-arizona-trump-supporter/6624406002/.
+    \3\Tim Hains, Will Cain: So Where Has January 6 ``FBI Most Wanted'' 
+Ray Epps Been? ``The Daily Mail'' Found Him On His Ranch In Arizona, 
+RealClear Politics (Dec. 29, 2021), https://www.realclearpolitics.com/
+video/2021/12/29/will_cain_so_where_has_january_ 6_fbi_most_wanted_ 
+ray_epps_ been_the_daily_mail_found_ him_on_his_ranch_in_arizona.html.
+---------------------------------------------------------------------------
+    In January 2021, a reporter spoke with Epps, who admitted 
+to being in Washington, D.C. during the relevant period.\4\ 
+When the reporter asked Epps whether he made the comment of 
+``we need to go into the Capitol,'' Epps replied, ``The only 
+thing that meant is we would go in the doors like everyone 
+else. It was totally, totally wrong the way they went in.''\5\ 
+Epps denied doing anything wrong. Several months later, 
+reporters from the Daily Mail visited Epps on his property 
+outside in Arizona and Epps told the reporters to leave.\6\
+---------------------------------------------------------------------------
+    \4\Ryan, supra note 2.
+    \5\Id.
+    \6\Hains, supra note 3.
+---------------------------------------------------------------------------
+    Representative Thomas Massie (R-KY) and Senator Ted Cruz 
+(R-TX) have asked Biden Administration officials whether there 
+were federal agents or confidential informants involved in the 
+events surrounding January 6, 2021. During a House Judiciary 
+Committee hearing on October 21, 2021, Rep. Massie asked 
+Attorney General Merrick Garland: ``Can you tell us--without 
+talking about particular incidents or particular videos--how 
+many agents or assets of the federal government were present on 
+January 6? Whether they agitated to go into the Capitol and if 
+any of them did?''\7\ In response, Attorney General Garland 
+stated, ``I'm not going to comment on an investigation that's 
+ongoing.''\8\ During a hearing of the Senate Judiciary 
+Committee on January 11, 2022, Senator Ted Cruz asked then-FBI 
+Assistant Executive Director Jill Sanborn: ``Did federal agents 
+or those in service of federal agents actively encourage 
+violent and criminal conduct on Jan. 6?''\9\ In response, 
+Sanborn testified, ``Not to my knowledge, sir.''\10\ Senator 
+Cruz then asked, ``Was Ray Epps a fed?'' and Sanborn responded 
+by saying, ``Sir, I cannot answer that question.''\11\
+---------------------------------------------------------------------------
+    \7\Oversight of the Department of Justice, Hearing Before the H. 
+Comm. on the Judiciary, 117th Cong. (2021); Anne Ryman, Arizona man who 
+was at U.S. Capitol Jan. 6 featured in video during House hearing with 
+AG Merrick Garland, AZ Central (Oct. 22, 2021), https://
+www.azcentral.com/story/news/local/arizona/2021/10/22/arizona-man-
+capitol-riot-house-hearings-thomas-massie-merrick-garland/6135771001/.
+    \8\Id.
+    \9\The Domestic Terrorism Threat One Year After January 6, Hearing 
+Before the S. Comm. on the Judiciary, 117th Cong. (2022); Hannah 
+Grossman, Cruz slams `arrogance' of FBI to stonewall his Jan. 6 
+questions: `Did they actively solicit illegal conduct?', Fox News (Jan. 
+12, 2022), https://www.foxnews.com/media/ted-cruz-fbi-arrogance-
+january-6.
+    \10\Oversight of the Department of Justice, supra note 7.
+    \11\Id.
+---------------------------------------------------------------------------
+    On January 11, 2022, the Democrat-run January 6th Select 
+Committee issued a statement confirming that Epps had testified 
+to the committee. The statement read, ``The Select Committee is 
+aware of unsupported claims that Ray Epps was an FBI informant 
+based on the fact that he was on the FBI Wanted list and then 
+was removed from that list without being charged. The Select 
+Committee has interviewed Mr. Epps. Mr. Epps informed us that 
+he was not employed by, working with, or acting at the 
+direction of any law enforcement agency on January 5th or 6th 
+or at any other time, and that he has never been an informant 
+for the FBI or any other law enforcement agency.''\12\ 
+According to the Washington Examiner, Chairman Bennie Thompson 
+said that the Select Committee will release the Epps' interview 
+transcript ``at some point.''\13\ To date, the January 6th 
+Select Committee has not publicly released the transcript.
+---------------------------------------------------------------------------
+    \12\Emily Brooks, Jan. 6 committee: Provocateur Ray Epps not FBI 
+informant or agent, Wash. Examiner (Jan. 11, 2022), https://
+www.washingtonexaminer.com/news/jan-6-committee-provocateur-ray-epps-
+not-fbi-informant-or-agent.
+    \13\Emily Brooks, Ray Epps interview transcript with Jan. 6 panel 
+to be public `at some point', Wash. Examiner (Jan. 21, 2022), https://
+www.washingtonexaminer.com/news/ray-epps-interview-transcript-with-jan-
+6-panel-to-be-public-at-some-point.
+---------------------------------------------------------------------------
+    On September 21, 2022, the Committee considered H. Res. 
+1356 at a business meeting. Democrats refused to acknowledge 
+the legitimate questions posed by Republican members about Ray 
+Epps and the potential involvement of federal assets 
+surrounding the events of January 6, 2021. Rather than 
+receiving basic facts and information, Democrats voted to 
+report H. Res. 1356 unfavorably to the House.
+                                                Jim Jordan,
+                                                    Ranking Member.
+
+                                  [all]
