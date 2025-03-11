@@ -1,0 +1,2032 @@
+[Congressional Record Volume 168, Number 200 (Thursday, December 22, 2022)]
+[House]
+[Pages H9990-H10002]
+From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
+
+
+
+
+      PRESIDENTIAL TAX FILINGS AND AUDIT TRANSPARENCY ACT OF 2022
+
+  Mr. NEAL. Madam Speaker, pursuant to House Resolution 1529, I call up 
+the bill (H.R. 9640) to amend the Internal Revenue Code of 1986 to 
+provide for examination and disclosure with respect to Presidential 
+income tax returns, and ask for its immediate consideration.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore (Mrs. Luria). Pursuant to House Resolution 
+1529, the bill is considered read.
+  The text of the bill is as follows:
+
+                                H.R. 9640
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Presidential Tax Filings and 
+     Audit Transparency Act of 2022''.
+
+     SEC. 2. EXAMINATION AND DISCLOSURE WITH RESPECT TO 
+                   PRESIDENTIAL INCOME TAX RETURNS.
+
+       (a) Audit.--Subchapter A of chapter 78 of the Internal 
+     Revenue Code of 1986 is amended by redesignating section 7613 
+     as section 7614 and by inserting after section 7612 the 
+     following new section:
+
+     ``SEC. 7613. EXAMINATION WITH RESPECT TO PRESIDENTIAL INCOME 
+                   TAX RETURNS.
+
+       ``(a) In General.--As rapidly as practicable after the 
+     filing of any Presidential income tax return, the Secretary 
+     shall conduct an examination to ascertain the correctness of 
+     such return and enforce the requirements of this title with 
+     respect to the taxable year covered by such return.
+       ``(b) Reports.--
+       ``(1) Initial report.--Not later than 90 days after the 
+     filing of a Presidential income tax return, the Secretary 
+     shall disclose and make publicly available an initial report 
+     regarding the examination with respect to such return. Such 
+     report shall include--
+       ``(A) the name of the taxpayer,
+       ``(B) an identification of the subparagraph of subsection 
+     (c)(1) which describes such return,
+       ``(C) the date that such return was filed, and
+       ``(D) the date on which the examination with respect to 
+     such return commenced (or, if such examination has not 
+     commenced as of the date of such report, a detailed 
+     description of the reasons that such examination has not 
+     commenced).
+       ``(2) Periodic reports.--Not later than 180 days after the 
+     disclosure of the report described in paragraph (1) with 
+     respect to any
+
+[[Page H9991]]
+
+     Presidential income tax return and not later than 180 days 
+     after the most recent disclosure of a report described in 
+     this paragraph with respect to such return, the Secretary 
+     shall disclose and make publicly available a periodic report 
+     regarding the examination with respect to such return. Such 
+     report shall include--
+       ``(A) the information described in subparagraphs (A) 
+     through (D) of paragraph (1),
+       ``(B) a description of the status of the examination, 
+     including a description of the portions of the examination 
+     which have been completed, which are in process, and which 
+     are anticipated to take place, and
+       ``(C) an estimate of the time frame for the completion of 
+     the examination, including an identification of factors which 
+     could alter such time frame, reasonable estimates of the 
+     likelihood of such factors (taking into account the specific 
+     facts and circumstances of the examination), and the likely 
+     specific effects of such factors on such time frame.
+
+     Notwithstanding the preceding sentence, a periodic report 
+     shall not be required under this paragraph with respect to 
+     any return after the date on which a final report is 
+     disclosed under paragraph (3) with respect to such return.
+       ``(3) Final report.--Not later than 90 days after the 
+     completion of the examination described in subsection (a) 
+     with respect to any Presidential income tax return, the 
+     Secretary shall disclose and make publicly available a final 
+     report regarding such examination. Such report shall 
+     include--
+       ``(A) the information described in subparagraphs (A) 
+     through (C) of paragraph (1),
+       ``(B) the date on which the examination with respect to 
+     such return was completed,
+       ``(C) a list of the audit materials (as defined in section 
+     6103(q)(2)) with respect to such examination, and
+       ``(D) a description (including the amount) of each proposed 
+     adjustment, adjustment, and controversy with respect to such 
+     examination together with a description of how such proposed 
+     adjustment or controversy was resolved (or a statement that 
+     such proposed adjustment or controversy was not resolved, as 
+     the case may be).
+
+     For purposes of this paragraph, an examination shall be 
+     treated as complete on the date that the Secretary provides 
+     the taxpayer with a notice of deficiency, or any closing 
+     document referred to in section 6103(q)(2)(A)(v), with 
+     respect to such examination.
+       ``(4) Extension of due date report.--If a request is made 
+     for an extension of the due date for filing any Presidential 
+     income tax return, the Secretary shall, not later than 90 
+     days after such request is granted or denied, disclose and 
+     make publicly available an extension of due date report with 
+     respect to return. Such report shall include--
+       ``(A) the information described in subparagraphs (A) and 
+     (B) of paragraph (1),
+       ``(B) a statement that an extension of the due date for the 
+     filing of such return has been requested,
+       ``(C) the date that such request was received,
+       ``(D) a statement of whether such request has been granted 
+     or denied, and
+       ``(E) the due date of such return (including any 
+     extensions).
+       ``(5) Treatment of failure to file.--In the case of a 
+     failure to file a Presidential income tax return before the 
+     close of the 60-day period beginning with the date prescribed 
+     for filing of such return--
+       ``(A) the Secretary shall conduct the examination described 
+     in subsection (a) with respect to the taxable year covered by 
+     the return to which such failure relates,
+       ``(B) reports made pursuant to this paragraph shall include 
+     a statement that such report is with respect to a return 
+     which the taxpayer failed to file, and
+       ``(C) this section and section 6103(q) shall otherwise 
+     apply to such failure in the same manner as if a return were 
+     filed at the close of such period.
+
+     The application of this paragraph with respect to any failure 
+     to file a Presidential income tax return shall not prevent 
+     the application of this section with respect to such return 
+     at such time as such return may be filed.
+       ``(6) Public availability.--For purposes of this 
+     subsection, a document shall not be treated as having been 
+     made publicly available unless made available on the 
+     internet.
+       ``(c) Presidential Income Tax Return.--For purposes of this 
+     section--
+       ``(1) In general.--The term `Presidential income tax 
+     return' means any relevant income tax return of--
+       ``(A) a President,
+       ``(B) an individual who is married (within the meaning of 
+     section 7703(a)) to a President for the taxable year to which 
+     such return relates,
+       ``(C) any corporation or partnership which is controlled by 
+     any individual described in subparagraph (A) or (B) at any 
+     time during the taxable year to which such return relates,
+       ``(D) the estate of any person described in (A) or (B) or 
+     any estate with respect to which any person described in 
+     subparagraph (A), (B), or (C) is an executor, or beneficiary 
+     at any time during the taxable year to which such return 
+     relates, and
+       ``(E) any trust with respect to which any person described 
+     in subparagraph (A), (B), (C), or (D) is a grantor, fiduciary 
+     or beneficiary, or for which another trust described in this 
+     subparagraph is a grantor or beneficiary, at any time during 
+     the taxable year to which such return relates.
+     Such term shall include any schedule, attachment, or other 
+     document filed with such return.
+       ``(2) Relevant income tax return.--The term `relevant 
+     income tax return' means, with respect to a President, any 
+     income tax return if--
+       ``(A) any portion of the taxable year to which such return 
+     relates is during the period that such President is the 
+     President,
+       ``(B) the due date for such return (including any 
+     extensions) is during such period, or
+       ``(C) such return is filed during such period.
+       ``(3) Control.--For purposes of paragraph (1)(C)--
+       ``(A) In general.--Except as otherwise provided in this 
+     paragraph, control shall be determined under the rules of 
+     paragraphs (2) and (3) of section 6038(e) (determined without 
+     regard to subparagraphs (A) and (B) of such paragraph (2) and 
+     without regard to subparagraph (C) of paragraph (3) thereof).
+       ``(B) Restriction on family attribution.--
+       ``(i) In general.--Except as provided in clause (ii), for 
+     purposes of applying subparagraph (A)--
+
+       ``(I) section 318 shall applied without regard to 
+     subsection (a)(1)(A)(ii) thereof, and
+       ``(II) section 267(c) shall applied by treating the family 
+     of an individual as including only such individual's spouse 
+     (in lieu of the application of paragraph (4) thereof).
+
+       ``(ii) Exception for recent transfer to family members.--
+     For purposes of determining whether any corporation or 
+     partnership is controlled by a President under paragraph 
+     (1)(C) for any taxable year, clause (i) shall not apply if 
+     such corporation or partnership was controlled by such 
+     President (after application of clause (i)) at any time 
+     during the 4 immediately preceding taxable years.
+       ``(d) Application to Amended Returns.--For purposes of this 
+     section and section 6103(q), any amendment or supplement to a 
+     return of tax shall be treated as a separate return of tax 
+     and the determination of when such amendment or supplement is 
+     filed, and whether such amendment or supplement is a relevant 
+     income tax return, shall be made without regard to the 
+     underlying return.''.
+       (b) Disclosure.--Section 6103 of such Code is amended by 
+     redesignating subsection (q) as subsection (r) and by 
+     inserting after subsection (p) the following new subsection:
+       ``(q) Disclosure With Respect to Presidential Income Tax 
+     Returns.--
+       ``(1) In general.--The Secretary shall disclose and make 
+     publicly available (within the meaning of section 7613(b))--
+       ``(A) each Presidential income tax return (as defined in 
+     section 7613(c)),
+       ``(B) each report described in section 7613(b), and
+       ``(C) any audit materials with respect a return described 
+     in subparagraph (A).
+       ``(2) Audit materials.--The term `audit materials' means, 
+     with respect to any return:
+       ``(A) Any of the following which are provided by the 
+     Secretary to the taxpayer (or any designee of the taxpayer):
+       ``(i) Any written communication which identifies such 
+     return as being subject to examination.
+       ``(ii) Any written communication which proposes the 
+     adjustment of any item on such return, any report by an 
+     examiner related to such proposed adjustment, and any 
+     supervisory approval of any penalty proposed as part of such 
+     adjustment.
+       ``(iii) Any memorandum or report of the Internal Revenue 
+     Service Independent Office of Appeals with respect to such 
+     return, and any denial of any request described in 
+     subparagraph (B).
+       ``(iv) Any notice of deficiency with respect to such 
+     return.
+       ``(v) Any closing documents with respect to the examination 
+     of such return, including any closing agreement or no change 
+     letter.
+       ``(B) Any request for referral to the Internal Revenue 
+     Service Independent Office of Appeals of any controversy with 
+     respect to such return.
+       ``(C) Any petition filed with the Tax Court for a 
+     redetermination of any deficiency referred to in subparagraph 
+     (A)(iv).
+       ``(3) Exception for certain identity information.--The 
+     information disclosed and made publicly available under 
+     paragraph (1) shall not include any identification number of 
+     any person (including any social security number), any 
+     financial account number, the name of any individual who has 
+     not attained age 18 (as of the close of the taxable year to 
+     which the return relates), the name of any employee of the 
+     Department of the Treasury, or any address (other than the 
+     city and State in which such address is located).
+       ``(4) Timing of disclosures.--Any information required to 
+     be disclosed under paragraph (1) shall be disclosed and made 
+     publicly available not later than--
+       ``(A) in the case of any income tax return referred to in 
+     paragraph (1)(A), 90 days after the date that such return is 
+     filed,
+       ``(B) in the case of any report referred to in paragraph 
+     (1)(B), the deadline specified in section 7613(b) for 
+     disclosing such report, and
+       ``(C) in the case of the audit materials referred to in 
+     paragraph (1)(C), 90 days after the completion of the 
+     examination (within the meaning of section 7613(b)(3)) with 
+     respect to the return to which such audit materials 
+     relate.''.
+
+[[Page H9992]]
+
+       (c) Clerical Amendment.--Subchapter A of chapter 78 of such 
+     Code is amended by redesignating the item relating to section 
+     7613 as an item relating to section 7614 and by inserting 
+     after the item relating to section 7612 the following new 
+     item:
+
+``Sec. 7613. Examination with respect to Presidential income tax 
+              returns.''.
+
+       (d) Effective Date.--The amendments made by this subsection 
+     shall apply to returns, amendments, and supplements filed 
+     (and failures to file returns which occur) after the date of 
+     the enactment of this Act (and to reports and audit materials 
+     with respect to such returns, amendments, supplements, and 
+     failures).
+
+  The SPEAKER pro tempore. The bill shall be debatable for 1 hour, 
+equally divided and controlled by the chair and ranking minority member 
+of the Committee on Ways and Means or their respective designees.
+  The gentleman from Massachusetts (Mr. Neal) and the gentleman from 
+Texas (Mr. Brady) each will control 30 minutes.
+  The Chair recognizes the gentleman from Massachusetts.
+
+
+                             General Leave
+
+  Mr. NEAL. Madam Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks and 
+include extraneous material on the bill that is under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Massachusetts?
+  There was no objection.
+  Mr. NEAL. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, let me quickly lend my voice to having witnessed a 
+superb legislator, Mr. Hoyer, over a long career, and that is exactly 
+what the gentleman was and is: a superb legislator.
+  Madam Speaker, we are here this morning to affirm that, in America, 
+we are a Nation of equal citizens. No person is above the law.
+  By doing that, we honor the acknowledgment of congressional oversight 
+and responsibility. Congress has a responsibility that dates to Magna 
+Carta, and I am prepared to go back to the Battle of Hastings, if 
+necessary, in 1066 to make the argument that I have just offered.
+  The Ways and Means Committee is entrusted with the oversight of our 
+revenue system. The Ways and Means Committee and staff members all 
+honor that very profound tradition.
+  At the root of it all this morning is our Federal tax system that 
+funds the democracy that we all love and cherish. We rely on voluntary 
+tax compliance from all Americans and perhaps especially the President, 
+who always should model the highest order of compliance.
+  On December 13, 49 years ago this month, President Richard Nixon 
+asked the Ways and Means Committee chairman through a letter to have 
+the Joint Committee on Taxation review his tax returns.
+  Let me say something about the Joint Committee on Taxation. Both 
+political parties hold the JCT in the highest personal and professional 
+esteem.
+  This examination established the precedent for congressional 
+oversight of Presidential tax compliance.
+
+                              {time}  0945
+
+  Four years ago, our committee began reviewing the mandatory audit of 
+Presidential tax returns to see how the IRS was handling the stress of 
+a President with complex finances.
+  The committee expected to find that mandatory examinations were 
+conducted promptly and that more staff had been dedicated to the 
+program to meet the more rigorous demands. I would remind all that this 
+morning's New York Times--that I read online last evening--highlights 
+the fact that Barack Obama and Joe Biden both had their tax forms 
+reviewed.
+  Instead, after years of stonewalling and litigation that ended at the 
+Supreme Court, four Federal court decisions from three courts, our 
+committee found that for all practical purposes the mandatory audit 
+program was dormant. It wasn't just functioning poorly; it wasn't 
+functioning at all. In fact, the IRS did not start its mandatory audits 
+until receiving a letter that I sent requesting a President's tax 
+forms.
+  The IRS has failed to administer its own mandatory audit program 
+policies, so the best available recourse is for Congress to fill this 
+void with legislation that eliminates the IRS's discretion in the 
+matter. That is precisely what we are asking of this institution this 
+morning. I can't imagine that anybody, given the controversy of recent 
+days, would be opposed to legislation.
+  We would require the IRS to publish the President's tax returns, 
+audit them in a timely manner, and keep the American public updated on 
+the results because the President is not an ordinary taxpayer.
+  A reminder, our legislation is about the Presidency, not about a 
+President.
+  No other American holds this power, or influence, as the leader of 
+our executive branch.
+  We arrived at this legislation through a deliberate and cautious 
+process, as always. These improved guardrails will provide Americans 
+the assurance they deserve that our tax code applies evenly and fairly 
+to all of us, no matter how powerful.
+  The Ways and Means Committee oversight staff pursued the facts about 
+mandatory examination procedures with professionalism and diligence. 
+They did a great job. I emphasize that there were no leaks by the 
+committee leading up to this decision to release our report on the 
+mandatory examination process. Imagine that, in Washington for 
+something this complex, no leaks.
+  We adhered carefully and scrupulously to the law and resisted 
+entreaties from the fringe of both political parties as we proceeded 
+with great patience and deliberation. No leaks as to how we were to 
+move forward.
+  This bill, combined with investments in the IRS that we made as part 
+of the Inflation Reduction Act, will preserve the integrity of the 
+Presidency and our system of tax and ensure that no one in the country 
+is above the law.
+  Today's legislation, I repeat, is not about a President, it is about 
+the Presidency.
+  It is not about being punitive or malicious. And for those on the 
+other side and those who are witnesses here today, they have worked 
+with me for a long time, and they know what I just said is entirely 
+accurate.
+  The bill we consider today, once again, is about the integrity of the 
+Presidency and the integrity of our tax system.
+  Madam Speaker, finally, I include in the Record a technical 
+explanation of the bill prepared by the staff on the Joint Committee on 
+Taxation, which can be found at https://www.jct.gov/publications/2022/
+jcx-20-22/
+ Mr. NEAL. Madam Speaker, I urge our colleagues to pass this 
+legislation, and for the moment, I reserve the balance of my time.
+  Mr. BRADY. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, I thank Chairman Neal for his leadership of this 
+committee and his friendship. You care about the institution; you care 
+about this committee. Your word has always been good, and together our 
+committees have done good things: banning surprise medical billing, new 
+trade agreements with Mexico and Canada, repeated efforts to help 
+people save. It has been an honor to serve with you.
+  Now, if you will excuse me, I intend to peel the bark off this bill 
+in front of us right now.
+  Madam Speaker, this bill is a charade. It is a flimsy excuse that for 
+years has been used to justify the political targeting of former 
+President Trump.
+  This week, Democrats in Congress finally accomplished their goal: for 
+the first time in history making public the full, actual tax returns of 
+a private citizen. This unprecedented action jeopardizes the right of 
+every American to be protected from political targeting by Congress.
+  We are told President Trump's returns must be released in order for 
+the IRS to conduct its Presidential audits. That is absurd. That is 
+like going to the doctor and being told your private medical records 
+must be released in order to be examined. One has nothing to do with 
+the other. And then you would quickly realize, someone just wants to 
+release your medical records, and any excuse will do.
+  Let me be clear: Republicans' concerns are not whether the President 
+should have made his tax returns public as has been tradition, nor 
+about the accuracy of his tax returns, that is for the IRS and the 
+taxpayer to determine.
+  Our concern is that this politically motivated action sets a terrible 
+precedent that unleashes a dangerous new
+
+[[Page H9993]]
+
+political weapon reaching far beyond any President, and overturns 
+decades of privacy protections for average Americans that have existed 
+since the Watergate reforms.
+  Our current law was put in place specifically to prevent Presidents 
+and Members of Congress from targeting political enemies through their 
+tax returns. Unfortunately, the Supreme Court chose not to intervene to 
+stop the flimsy and admittedly partisan Democrat efforts to target the 
+former President.
+
+  Now, as a result, thanks to this week's actions, longstanding privacy 
+protections for all taxpayers have been gutted.
+  Going forward, the majority chairman of the House Ways and Means 
+Committee and the Senate Financial Committee will have nearly unlimited 
+power to target and make public the tax returns of private citizens, 
+political enemies, business and labor leaders, or even the Supreme 
+Court Justices themselves.
+  No party in Congress should hold that power. No individual should 
+hold that power to embarrass, harass, or destroy a private citizen 
+through disclosure of their private tax returns.
+  After nearly half a century, the political enemies list is back in 
+Washington, D.C., and it will unleash a cycle of political retribution 
+in Congress.
+  Many of us in Congress believed the current law was strong enough to 
+protect private citizens against this political targeting, but it is no 
+longer. That is frightening.
+  Republicans will continue to fight to protect American taxpayers from 
+this abuse of power that will surely have severe consequences for 
+taxpayers and democracy for years to come.
+  We have urged our Democrat friends to turn back because making 
+private tax information public will be a regrettable stain, both on our 
+committee and on Congress. It will make American politics even more 
+ugly and divisive. In the long run, we believe every Member of Congress 
+will come to regret this.
+  Madam Speaker, we strongly oppose this bill today. Not because 
+portions of it doesn't have merit, some do, but it has serious flaws, 
+of course, because it didn't exist 48 hours ago.
+  And had it been brought forward 4 years ago, 3 years ago, 2 years 
+ago, as an honest attempt to improve Presidential audits, I am 
+convinced we could have found common ground with no need to expose 
+private tax returns of anyone. But not now, not this bill, and not this 
+way.
+  Republicans will not support any measure whose only purpose is to 
+provide cover for the political targeting of a private citizen.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. NEAL. Madam Speaker, I still intend to say kind things about the 
+ranking member despite peeling the bark off my legislation.
+  Madam Speaker, I yield 1 minute to the gentleman from Michigan (Mr. 
+Kildee), a leader on this issue of tax compliance.
+  Mr. KILDEE. Madam Speaker, I rise in support of this legislation, the 
+Presidential Tax Filings and Audit Transparency Act, legislation that 
+ensures that we protect our tax system and ensures that it is fair and 
+transparent for all Americans.
+  As we have heard, the purpose of the Ways and Means Committee 
+investigation and the purpose of this legislation is to ensure that no 
+American is above the law, even the President of the United States.
+  But shockingly, under the former President, the IRS was not examining 
+the President's tax returns as required by their own policy as it had 
+for other Presidents before and since. It did not follow its own rules. 
+Because of this, there are still glaring questions about whether the 
+former President was abiding by our tax laws.
+  That is why we needed the information, and that is why we need this 
+legislation to require the IRS to examine Presidential returns in a 
+timely and complete manner. The American people must have confidence 
+that our tax laws apply evenly and justly to everyone.
+  Madam Speaker, I thank Chairman Neal for his leadership on this. In 
+passing this, we will ensure integrity in our tax system.
+  Mr. BRADY. Madam Speaker, I include in the Record an article from 
+yesterday's Los Angeles Times confirming the release of tax returns 
+does nothing to evaluate the IRS auditing process or to advance any 
+legitimate oversight goal.
+
+              [From the Los Angeles Times, Dec. 21, 2022]
+
+  Column: Should Congress Post Trump's Tax Returns Publicly? I Don't 
+                                Think So
+
+                         (By Nicholas Goldberg)
+
+       Donald Trump should have released his tax returns when he 
+     was running for president, and in not doing so he was 
+     deceptive, sleazy and in violation of a long-standing 
+     tradition that fosters transparency and honesty. He obviously 
+     hoped to hide unfavorable information from the voters.
+       Despite that, I don't believe the House Ways and Means 
+     Committee should release his tax returns to the public now.
+       The committee fought a long battle all the way to the 
+     Supreme Court to obtain copies of the returns. It argued that 
+     it needed them to evaluate the effectiveness of an IRS 
+     program that audits the tax filings of presidents.
+       Republicans squawked all the way, saying the Democrats who 
+     controlled the committee were being disingenuous, and that 
+     no, no, no, they weren't seeking to do a legitimate 
+     evaluation--they were just creating a pretext to get ahold of 
+     Trump's returns for a humiliating public fishing expedition 
+     into what taxes had or hadn't been paid.
+       The courts ultimately ruled that the committee could have 
+     six years of Trump's federal tax returns. That battle ended 
+     last month.
+       But on Tuesday, the committee voted to do something that 
+     goes well beyond what's necessary to evaluate the IRS' 
+     presidential audit program: The committee is now going to 
+     release Trump's taxes publicly, posting the full returns 
+     (minus certain identifiers like Social Security numbers and 
+     bank account numbers) for all to see. And quickly too, in the 
+     coming days, before the Democrats lose control of the 
+     committee to the Republicans on Jan. 3.
+       Why make the returns public? How does that help Congress 
+     figure out whether the IRS auditing process is working? How 
+     does it further the legitimate oversight goals of the 
+     committee?
+       Answer: It doesn't. It turns out the Republicans are right. 
+     (This may be the first time since the Civil War.) As they 
+     correctly noted, this is a politically motivated move to 
+     release information that might harm or embarrass the former 
+     president.
+       In theory, I'm all for embarrassing Trump. (With these two 
+     caveats: First, no one can embarrass Trump more than he 
+     embarrasses himself, and second, he's entirely shameless so 
+     he doesn't really get embarrassed in any normal sense of the 
+     word.) The ex-president is a dishonest thug who needs to be 
+     called to account for his misbehavior.
+       But in this particular case, I think the Democrats are in 
+     the wrong. For one thing, releasing the private tax returns 
+     probably won't shed much light on anything. The New York 
+     Times already received leaked details of more than two 
+     decades of Trump's tax filings and published long stories 
+     that should've shocked the world. Billionaire pays less in 
+     federal taxes in some years than you and I do! Trump paid no 
+     federal income taxes at all in 10 out of 15 years!
+       Furthermore, the Manhattan district attorney's office has 
+     many of Trump's tax returns as well, and prosecutors can 
+     pursue cases using the data they uncover.
+       But the main reason I object to posting the returns is that 
+     I worry--perhaps quaintly, in this day and age--about the 
+     continued politicization of governmental processes, and the 
+     continued breaking of established norms, in this case making 
+     private tax filings public. I know I'll get a thousand emails 
+     saying ``the Republicans wouldn't hesitate to do the same to 
+     us'' and ``if we're civil and respectful and always play by 
+     Marquess of Queensberry rules while our political opponents 
+     continue their underhanded tricks, we will always be 
+     beaten.''
+       There's certainly some truth to that. But there's truth to 
+     the flip side too: If nobody plays by the rules, there will 
+     soon be no rules to play by. When you're doing something as 
+     sensitive and politically explosive as investigating a former 
+     president--at a tense time in history when there's talk of 
+     civil war and violence is on the rise and bitter political 
+     partisanship is smoldering--it makes sense to be careful to 
+     respect the established process, be as honest as possible, 
+     refrain from unnecessary politicization and not escalate 
+     conflict unnecessarily.
+       Among other things, posting Trump's taxes seems likely to 
+     result in tit-for-tat posting of other people's private tax 
+     returns. Will we soon be seeing Hunter Biden's tax returns on 
+     the web?
+       It'll also give Republicans some basis for saying that, 
+     actually, it is Democrats who go low when others go high.
+       Unsurprisingly, the committee vote was along party lines. 
+     Like so much of what goes on in Washington these days.
+       If Congress thinks all presidents or presidential 
+     candidates should release their tax returns for public 
+     scrutiny--which I believe is a good idea--it should pass a 
+     law that mandates that going forward. It should not find 
+     circuitous, pretextual ways of going after particular 
+     presidents.
+       The returns the Ways and Means Committee received 
+     apparently showed that Trump often paid little or nothing in 
+     federal income taxes between 2015 and 2020 despite reporting 
+     millions in earnings, thanks to
+
+[[Page H9994]]
+
+     steep losses elsewhere. That's similar to what the New York 
+     Times found in its reporting.
+       The unembarrassable Trump once said in a debate when 
+     Hillary Clinton accused him of not paying much in federal 
+     taxes: ``That makes me smart.''
+       Voters need to know more about the sources and scope of 
+     presidential candidates' wealth and about potential conflicts 
+     of interests.
+       But posting Trump's returns at this point and under these 
+     circumstances and given the arguments that were made to 
+     obtain them, serves politics much more than transparency.
+
+  Mr. BRADY. Madam Speaker, I yield 2 minutes to the gentleman from 
+Nebraska (Mr. Smith).
+  Mr. SMITH of Nebraska. Madam Speaker, if I might, I thank the 
+gentleman for yielding me time. This is probably his last time managing 
+a bill, and I thank him for his dedication and diligence as ranking 
+member.
+  Madam Speaker, I rise today in strong opposition to this bill. I 
+think it is one of the most unnecessarily divisive efforts in modern 
+history. It has been rushed to the floor with no notice, no hearing, no 
+markup, and certainly no opportunity to amend it.
+  We are only here as an excuse for Democrats' last-minute rush to 
+weaponize private taxpayer information against their opponents. Much of 
+the oversight of the Presidential audit program Democrats claim to have 
+been seeking could have been conducted without accessing or releasing 
+anyone's confidential tax information.
+  The Inspector General and the Joint Committee on Taxation could have 
+provided an analysis of the start and completion dates of Presidential 
+audits without Democrats obtaining or releasing confidential tax 
+information.
+  The JCT could have provided us an analysis of the efficacy of 
+Presidential audits without Democrats obtaining or releasing the 
+private tax returns.
+  Instead, we are debating a bill which will never be considered in the 
+Senate or become law, but solely to paper over the bad decision that 
+Democrats made only two nights ago.
+  Let's defeat this bill today and start over in January with a 
+bipartisan effort to ensure the Presidential audit program is working 
+as intended, making sure the President and his family are following the 
+law, without rushing to cancel anyone's 6103 protections.
+  Mr. NEAL. Madam Speaker, a reminder, 9 out of the last 10 Presidents 
+of the United States have publicly offered their tax forms.
+  Madam Speaker, I yield 1 minute to the gentleman from Illinois (Mr. 
+Danny K. Davis), one of the leaders on this issue.
+  Mr. DANNY K. DAVIS of Illinois. Madam Speaker, I thank the chairman 
+for putting this bill together.
+  We live in a country that is governed by a Constitution, laws, rules, 
+and regulations. There are no exemptions, there are no people who could 
+be let off because of a position that they hold.
+  Tradition has it that we have seen the public is desirous of 
+information. They want to know, and I think it is our responsibility to 
+make sure that they do.
+  Madam Speaker, I strongly support this legislation.
+  Mr. BRADY. Madam Speaker, I yield 2 minutes to the gentleman from 
+Pennsylvania (Mr. Kelly), the Republican leader of the Select Revenue 
+Measures Subcommittee.
+  Mr. KELLY of Pennsylvania. Madam Speaker, this phrase keeps coming up 
+that no person is above the law. That is true. But, also, no person is 
+denied protection under the law.
+  Why would we wait 4 years?
+  Why would this come up at this time that we have to check the former 
+President of the United States' tax returns?
+  The answer is because we want to make them public.
+  Why do we want to make them public?
+  Because we need to have every single citizen understand just who this 
+person is and what is in their tax returns with no regard to the 
+protections that are already in place that these kinds of things don't 
+happen, that they do not become a political weapon.
+  Yet, now in the very last days of this session, we have decided that 
+this is the most important thing this Congress can do. No other 
+President has ever gone through this type of scrutiny.
+
+                              {time}  1000
+
+  We keep saying he is not above the law. He is not above the law. The 
+truth of it all is, he is not protected by the law because we are going 
+to change the law. We are going to make it a weapon that we can go 
+after.
+  I will just tell you this: The American people continue to lose 
+faith, trust, and confidence in a system that cherry-picks what it 
+decides to go after and go after in a way that is detrimental to the 
+very form of government that we have.
+  To be here today, talking about this, in the last hours of this 
+session, has nothing to do with what is good for the American people. 
+It is a political hit job. It is sad and, especially in this age, for 
+the Ways and Means to be doing this at the end of the year? Horrible.
+  Mr. NEAL. Madam Speaker, we were not granted this information until 
+the Supreme Court ruled on November 23, and we did not pursue this 
+legislation at the last minute. We went through the regular order here, 
+indeed, with the gentlewoman from California, who did a great job on 
+this. She represented the committee at the Rules Committee session 
+yesterday.
+  Madam Speaker, I yield 1 minute to the gentlewoman from California 
+(Ms. Chu).
+  Ms. CHU. Madam Speaker, I rise today in strong support of H.R. 9640, 
+the Presidential Tax Filings and Audit Transparency Act of 2022.
+  This week, I was shocked to find that the IRS did not comply with its 
+own mandate to conduct annual audits of the President's tax returns.
+  This mandatory Presidential audit has been in place since 1977. Yet, 
+during Trump's 4 years in office, only one mandatory audit was even 
+started and none of the audits were completed. The majority of audits 
+weren't even started until Trump left office.
+  The American people deserve transparency and checks and balances for 
+the President, the most powerful person in the world. The bill before 
+us would ensure the integrity of this audit in Federal statute and show 
+the American public that no one is above the law. I urge my colleagues 
+to vote ``yes.''
+  Mr. BRADY. Madam Speaker, I include in the Record one page from the 
+Democrats' own report showing that, contrary to what we just heard, 
+every single year, tax returns at issue are under audit, debunking this 
+claim that the IRS hasn't examined the tax return.
+       Notably, the IRS sent a letter to the former President 
+     notifying him that his tax year 2015 return was selected for 
+     examination on April 3, 2019, which is the date the Chairman 
+     sent the initial request to the IRS for the former 
+     President's return information and related tax returns.
+       The designated agents were told by the IRS that two of the 
+     entities the Chairman requested were included in the 
+     mandatory audit program--DJT Holdings LLC and DJT Holdings 
+     Managing Member LLC (DJTH Managing Member). The designated 
+     agents found the below information regarding DJT Holdings 
+     LLC's date of filing on the transcripts and selection for 
+     examination and very little information for DJTH Managing 
+     Member.
+        Tax Year, Date Return Filed, Date Selected for 
+     Examination, Designated by IRS as Mandatory Audit:
+       2015, October 10, 2016, July 25, 2019, No.
+       2016, October 16, 2017, February 11, 2020, No indication.
+       2017, October 8, 2018, March 19, 2021, No.
+       2018, October 21, 2019, January 28, 2022, No.
+       2019, October 12, 2020, April 5, 2022, No.
+       2020, February 21, 2022, None, No.
+       During the prior Administration, it was clear that the 
+     mandatory audit program was not a priority and was not 
+     provided with the resources needed to ensure compliance by 
+     the former President. An internal IRS memo stated: ``With 
+     over 400 flow-thru returns reported on the Form 1040, it is 
+     not possible to obtain the resources available to examine all 
+     potential issues.'' The designated agents found that the 
+     following issues, among others, warranted examination by the 
+     IRS:
+       Charitable contributions--whether the 2015 conservation 
+     easement deduction of $21 million and other large donations 
+     reported on the Schedule A were supported by required 
+     substantiation.
+       Verification of Net Operating Loss Carryover Schedule--
+     whether the amount of net operating loss carryover in 2015 of 
+     $105,157,825 and future years was proper.
+       Unreimbursed partnership/S corporation expenses--whether 
+     the terms of the partnership agreements supported 
+     unreimbursed expense deductions totaling $27 million over six 
+     years.
+       Related party loans--whether loans made to the former 
+     President's children are loans or disguised gifts that could 
+     trigger gift tax.
+       Cost of goods sold deductions by DJT Holdings--whether 
+     these deductions of about
+
+[[Page H9995]]
+
+     $126.5 million over five years is appropriate when it is not 
+     clear what DJT Holdings is selling from the face of the 
+     return.
+       LFB Acquisition LLC--whether there is any support for 
+     changes in the management fees and general and administrative 
+     expenses of LFB Acquisition that were significantly higher in 
+     2017 ($1.9 million and $2.8 million, respectively) than 2016 
+     ($750,000 and $549,000, respectively) and 2018 ($707,000 and 
+     $570,000, respectively).
+  Mr. BRADY. Madam Speaker, I yield 5 minutes to the gentleman from 
+Missouri (Mr. Smith), the Republican leader of the Budget Committee.
+  Mr. SMITH of Missouri. Madam Speaker, we are 12 days, 12 days until 
+the Democrat majority does not exist. In 13 days, the Republican 
+majority will be in charge.
+  Americans are facing the highest spike in prices in 40 years because 
+of the one-party Democrat rule in Washington, because of their reckless 
+spending.
+  The Ways and Means Committee is the committee that affects the 
+economy more than any committee in all of Congress. What do the House 
+Democrats feel like their last 12 days, their biggest priority is not 
+solving issues affecting working-class Americans, but issues targeting 
+their main political opponents.
+  This legislation is only cover for what they have been campaigning on 
+for years, and that is, to get Trump's tax returns.
+  Let me tell you, if you don't believe me now, this is called the 
+mandatory audit program. It is about auditing all current and former 
+Presidents to make sure their tax returns are audited. But the chairman 
+of this committee only requested how the mandatory audit program has 
+worked for one President, one, and it was a Republican President. His 
+name was Donald Trump.
+  I asked, on Tuesday, did you request a mandatory audit review process 
+on Joe Biden? No.
+  Did you request one on Obama? No. Clinton? No. Bush? No. Carter? No. 
+But yes, only Trump.
+  This is a cover for their political objective, and that is to target 
+their political opponents.
+  We have heard over and over that no one is above the law; that 
+includes everyone in this Chamber.
+  On Tuesday, when we sat in this markup, I raised the point, how can 
+you release the full tax returns, with all of the private personal 
+information of the private citizens, their Social Security number, 
+children's Social Security numbers? And I said, we need an amendment to 
+redact that information. I was told, we are not going to vote on 
+amendments.
+  But everyone says that no one is above the law. We were told good 
+faith, good faith, would redact the full transcripts, and it would be 
+decided by the majority staff.
+  Has the minority staff been able to participate in it? No. We don't 
+even know what the final documents of the tax returns that are going to 
+be released, what they are going to look at.
+  This was another example where you had to pass something before you 
+know what is in it. That is what Pelosi has done this entire Congress. 
+That is exactly what the Ways and Means Democrats did. They have 
+charted a new territory for the Ways and Means Committee.
+  It is the oldest committee in Congress. It is supposed to be the most 
+bipartisan committee in Congress. But they ignited a new political 
+tool, that future Congresses will now utilize.
+  I have traveled all over the country, 42 States just this year alone, 
+and one thing that constantly kept coming up to me is, Congressman, 
+look into President Biden's family and how they have been enriched by 
+his position.
+  In fact, banks have flagged over 150 red flags to Treasury. These are 
+suspicious activity reports. Usually, it is because they believe there 
+is fraud or money laundering, and this is the Biden family bank 
+accounts.
+  What about the fact that foreign governments are paying to have their 
+principals in the same room as Joe Biden? Or the sale of U.S. natural 
+gas to China, of which the Bidens held a 10 percent equity stake, or 
+business plans to sell one of the largest sources of cobalt for 
+electric vehicles to China, and $11 million made from Hunter Biden's 
+``work'' with a Ukraine firm and a Chinese businessman.
+  Like I said, over 150 red flags or suspicious activity reports filed 
+by banks.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Members are reminded to refrain from engaging in personalities toward 
+the President.
+  Mr. NEAL. Madam Speaker, I did indicate, I think, perhaps earlier--
+maybe the gentleman was not here--that Mr. Obama and Mr. Biden both 
+have had their tax forms audited. The majority staff has offered the 
+minority staff, who I have great regard for, the opportunity to 
+participate in the redaction process. They chose not to.
+  Madam Speaker, I yield 1 minute to the gentleman from Pennsylvania 
+(Mr. Evans), another leader on the issue of tax compliance.
+  Mr. EVANS. Madam Speaker, I rise today to strongly support this 
+legislation.
+  I am proud to serve on the Ways and Means Committee which, under the 
+chairman's strong leadership, oversees and protects our Nation's tax 
+code. Tax fairness is a top priority for me and the Democratic members 
+of the Ways and Means Committee.
+  The chairman's legislation sends a real message of fairness, 
+something we haven't seen before. I encourage all my colleagues to 
+support this legislation.
+  Mr. BRADY. Madam Speaker, I would note that our professional staff 
+was ready to join in redaction; however, we were forced to prepare for 
+this floor action and offered to do that together after we were done 
+this morning.
+  Madam Speaker, I include in the Record a recent legal journal that 
+notes that because Ways and Means Democrats did not pursue the 
+Presidential audits of any of the other eight Presidents in that 
+system, that the committee undermines their own credibility by 
+releasing returns outside the context of a comprehensive review, an 
+honest review of the Presidential audit program.
+
+               [From Chicago-Kent Law Review, April 1999]
+
+          I.R.C. 6103: Let's Get to the Source of the Problem
+
+                           (By Mark Berggren)
+
+
+                              INTRODUCTION
+
+       Each year, millions of taxpayers in the United States 
+     voluntarily disclose the most intimate details of their 
+     private lives to the Internal Revenue Service (``IRS''). A 
+     government official can glean, among other things, a 
+     taxpayer's name, social security number, marital status, 
+     income, and religious and political affiliations from a tax 
+     return's attachments and completed schedules. Despite the 
+     plethora of private information supplied to the IRS, prior to 
+     the enactment of the Tax Reform Act of 1976, Internal Revenue 
+     Code (``I.R.C.'') Sec. 6103 stated that a taxpayer's tax 
+     return was a ``public record'' and as such was ``open to 
+     inspection only upon order of the President and under rules 
+     and regulations prescribed by the Secretary or his delegate 
+     and approved by the President.''
+       The lack of protection afforded to returns and return 
+     information resulted in the widespread misuse of what 
+     taxpayers believed was confidential information. These abuses 
+     took the forms of the unauthorized use of tax information for 
+     political purposes by presidential administrations and the 
+     authorized use of tax information by governmental agencies 
+     other than the IRS. However, it was not until the Watergate 
+     scandal that these governmental abuses were thrust into the 
+     public limelight. The Watergate investigation led to 
+     allegations that President Nixon had used return information 
+     for unauthorized purposes and sought to use IRS audits and 
+     investigations for political purposes.
+       In response to these misuses of tax information and their 
+     potential effect on the voluntary assessment system, Congress 
+     amended I.R.C. Sec. 6103. The amended version of Sec. 6103 
+     states that return and return information (``tax 
+     information'') shall be confidential and shall not be 
+     disclosed except in thirteen specific circumstances. 
+     Violations of this prohibition may result in criminal 
+     sanctions under Sec. 7213 and civil sanctions under 
+     Sec. 7431.
+       These necessary amendments, however, have not silenced the 
+     controversy surrounding Sec. 6103. Section 6103's thirteen 
+     exceptions do not contain an exception for tax information 
+     that is part of a public record. This omission forced several 
+     of the Federal Courts of Appeal to consider the question of 
+     whether an authorized disclosure of tax information that 
+     subsequently becomes part of a public record loses its 
+     Sec. 6103 protection. In order to resolve this question, the 
+     Federal Courts of Appeal have adopted different approaches to 
+     the problem. The Sixth and Ninth Circuits look to see if the 
+     disclosed tax information has lost its confidentiality. Based 
+     on this analysis, these circuits reason that tax information 
+     that is part of a public record is no longer confidential 
+     and, thus, loses its Sec. 6103 protection. In contrast to 
+     this approach, the Fourth and Tenth Circuits look at the 
+     literal language of Sec. 6103. Because Sec. 6103 has no 
+     public records exception to its nondisclosure norm, these 
+     circuits conclude that tax information in a public record is 
+     still protected by Sec. 6103 and any subsequent disclosures 
+     of that information violate Sec. 6103. Not to be outdone, the 
+     Seventh and Fifth
+
+[[Page H9996]]
+
+     Circuits have also considered the issue. These circuits focus 
+     on the source of the information disclosed. If the disclosure 
+     is taken directly from a public record, the disclosure does 
+     not contain tax information as statutorily defined and 
+     Sec. 6103 is not violated. However, if the disclosure comes 
+     directly from tax information, then Sec. 6103 is violated 
+     regardless of whether the disclosure is also part of a public 
+     record.
+       The resolution of this issue has far-reaching implications 
+     if one considers the answer's potential effect on taxpayer 
+     compliance. If courts create judicial exceptions to 
+     Sec. 6103, taxpayers may not comply with tax laws because 
+     their tax information will not be protected from governmental 
+     abuse. On the other hand, if the IRS is prevented from 
+     publicizing any tax information taken from any source, it may 
+     be unable to deter noncompliance. The legislative history of 
+     Sec. 6103 indicates that Congress was aware of these concerns 
+     and sought to balance them in Sec. 6103 in order to maximize 
+     taxpayer compliance. However, both Sec. 6103 and its 
+     legislative history are silent as to whether tax information 
+     that is part of a public record loses its Sec. 6103 
+     protection. Thus, a uniform interpretation of Sec. 6103 is 
+     needed not simply for uniformity's sake, but for the effect 
+     on taxpayer compliance.
+       This note explores each circuit's approach to the public 
+     records problem and its possible effect on taxpayer 
+     compliance. Part I provides the history of Sec. 6103 with an 
+     emphasis on the legislative purpose behind the 1976 
+     amendments to Sec. 6103. Part II outlines the split in the 
+     circuits according to the three approaches the circuits have 
+     taken: the confidentiality approach, the disclosure approach, 
+     and the source approach. Because the Fifth Circuit's recent 
+     decision is the most comprehensive analysis of the public 
+     record disclosure dilemma to date, this note discusses its 
+     opinion in detail. In Part III, the note critiques each 
+     approach in light of the legislative and political history 
+     behind Sec. 6103. It concludes that the ``source'' approach 
+     of the Seventh and Fifth Circuits is the best approach 
+     because it effectuates the purpose behind Sec. 6103 without 
+     imposing a judicially created exception on Sec. 6103.
+
+  Mr. BRADY. Madam Speaker, I yield 3 minutes to the gentleman from 
+Kansas (Mr. Estes).
+  MR. ESTES. Madam Speaker, I thank my friend from Texas for yielding.
+  Madam Speaker, what a shameful way for the majority to end their 
+reckless tenure in House leadership.
+  Today, we are debating and voting on rushed bills that will cost 
+Americans trillions of dollars, expand the Federal government, and 
+eviscerate personal privacy.
+  The timing of this atrocious bill is an assault on the institution 
+and further undermines the public trust in the United States House of 
+Representatives and Federal agencies.
+  Let us be clear: This bill has one purpose, to help the majority 
+party justify their prejudiced release of personal and private data of 
+the former President, his wife, and his 16-year-old son.
+  The supporters of this bill claim that releasing personal tax returns 
+is needed to prove the Presidential mandatory audit process works. It 
+does not.
+  Congress should oversee the Presidential mandatory audit process to 
+ensure it does work correctly; but this invasion of privacy does not do 
+that.
+  Another point, the Presidential mandatory audit process is completely 
+separate from the voluntary release of tax returns done by seven of the 
+last nine Presidents.
+  Democrats have supercharged the IRS weapon to not only go after 
+political enemies, but their spouses and minor children, too. Minor 
+children aren't even exempt from the Democrats' desire to take down 
+their opponents.
+  Regardless of one's political preferences or attitudes toward a 
+former President, every American should be vehemently opposed to this 
+un-American attack on privacy, and I urge my colleagues to vote ``no.''
+  Mr. NEAL. Madam Speaker, the former Commissioner of the IRS has 
+indicated in the last 24 hours that he had no idea as to how the actual 
+audit of a President's forms played out. That is not from me; that is 
+from the public record.
+  Madam Speaker, I yield 1\1/2\ minutes to the gentleman from 
+California (Mr. Panetta) who has had a profound interest in this issue.
+  Mr. PANETTA. Madam Speaker, let me start off by expressing my 
+gratitude for Chairman Neal, for his seriousness, his sincerity, and 
+his solemnity in his leadership in the Ways and Means Committee and in 
+the way he conducted this request and release of the former President's 
+tax returns and the writing of this legislation before us.
+  Because of him, throughout this odyssey, the members of the Ways and 
+Means Committee always knew and felt the gravity, the implications of 
+what it meant to release an individual's tax returns.
+  In fact, prior to this weekend, which was prior to my review of the 
+former President's tax returns, I admit, I had no intent on voting to 
+release them. However, that changed. That changed once we were able to 
+obtain the returns, based on a valid legislative purpose and confirmed 
+by the Supreme Court, go through the returns, and see the complete 
+failure of the IRS when it comes to their Presidential audit program, a 
+program that is absolutely necessary to ensure that the world's most 
+important public servant is abiding by the law, paying his or her taxes 
+like you and me, and free from any conflicts of interest.
+  But clearly, the IRS doesn't appreciate, nor does it prioritize the 
+importance of this program, especially during the last administration 
+because, as applied to the former President, not one audit was 
+completed, despite what the President said to the American public.
+  That is why I support this legislation, so that any President's 
+personal and business tax returns are audited and made public, and we 
+are aware of those returns that are audited.
+  I am proud to say that under the leadership and seriousness of 
+Chairman Neal, now Congress needs to do its job and pass H.R. 9640.
+  Mr. BRADY. Madam Speaker, I yield myself 20 seconds to note that 
+every year of President Trump's tax returns are under audit.
+  Madam Speaker, I include in the Record an article explaining the 
+purpose of the taxpayer privacy law the Democrats have dismantled this 
+week, exposing all Americans to political attack via tax information.
+
+                    [From the Lawfare, Dec. 2, 2022]
+
+   House Democrats Can Release Trump's Tax Returns. But Should They?
+
+                          (By Daniel J. Hemel)
+
+       Now that a House committee has obtained access to six years 
+     of former President Trump's tax returns, congressional 
+     Democrats face an easy question and a harder one.
+       The easy question is whether, as a matter of law, the House 
+     Ways and Means Committee--which gained access to the former 
+     president's tax filings after the Supreme Court dismissed 
+     Trump's last-ditch bid to block the Internal Revenue Service 
+     from handing over the documents--can make Trump's returns 
+     public before Republicans take control of the chamber on Jan. 
+     3. The answer to that question is straightforwardly yes.
+       The harder question is whether, as a normative matter, the 
+     committee ought to make Trump's returns public in the waning 
+     weeks of the Democratic majority.
+       On the one hand, Trump's tax filings should have seen the 
+     light of day long ago. Trump should have released his returns 
+     voluntarily--as every elected president since Richard Nixon 
+     has. The Trump administration should have allowed the IRS to 
+     hand the president's tax returns over to the House Ways and 
+     Means Committee when that panel's chair, Rep. Richard Neal 
+     (D-Mass.), requested those documents in April 2019. And the 
+     federal judiciary shouldn't have allowed Trump to stall the 
+     release of his returns for three and a half years through 
+     litigation.
+       On the other hand, the Ways and Means Committee has 
+     maintained throughout the litigation over Trump's tax 
+     returns--which culminated with last week's Supreme Court 
+     decision--that it is seeking the documents as part of its 
+     plan to review the IRS's presidential audit program. (The 
+     presidential audit program is the procedure--mentioned in an 
+     IRS manual but not codified in any statute or regulation--by 
+     which the IRS examines individual tax returns filed by the 
+     president and vice president each year.) Any review of the 
+     presidential audit program that starts now and ends when the 
+     GOP takes control of the House in January would be slapdash 
+     and superficial. If Democrats on the House Ways and Means 
+     Committee rushed to release Trump's returns in the lameduck 
+     session--without conducting the comprehensive review of the 
+     presidential audit program that they promised--it would look 
+     like their stated motive for seeking the documents was 
+     indeed, as Trump has alleged, pretextual.
+       Fortunately, the Senate Finance Committee--which will 
+     remain under Democratic leadership in the next Congress--has 
+     both the resources and the apparent inclination to conduct 
+     the comprehensive review of the presidential audit program 
+     that House Democrats initially set out to undertake. So even 
+     if the House Ways and Means Committee doesn't release Trump's 
+     tax returns this month, the likely consequence is not that 
+     Trump's returns will remain under wraps forever. The Senate 
+     Finance Committee will be able to obtain the returns itself, 
+     and that committee then can release return information that 
+     is relevant to its review of the presidential audit program.
+
+[[Page H9997]]
+
+       Full disclosure: I've been advocating for the release of 
+     President Trump's tax information since April 2017, when I 
+     suggested in a Washington Post op-ed and a Yale Law Journal 
+     Forum article that New York could enact a law requiring the 
+     release of Trump's state tax filings. I've advised state 
+     lawmakers in New York on strategies to make Trump's tax 
+     returns public. I've criticized House Ways and Means Chairman 
+     Neal for acting too slowly to obtain Trump's returns. So I'm 
+     no apologist for Trump's tax secrecy.
+       Still, it's important that Democrats on the House Ways and 
+     Means Committee remain true to their word. Chairman Neal said 
+     his committee needed Trump's tax returns to evaluate the 
+     extent to which the IRS audits and enforces federal tax laws 
+     against the president. To turn around now and release Trump's 
+     returns--outside the context of a thorough evaluation of the 
+     IRS's presidential audit program--would make the stated 
+     rationale look much like a head fake. That would seem 
+     especially gratuitous given that the Senate Finance Committee 
+     stands ready, willing, and able to carry out its own review 
+     of the presidential audit program.
+
+
+The Easy Question: Can House Democrats Make Trump's Tax Returns Public?
+
+       The law is clear that the House Ways and Means Committee 
+     can now make Trump's tax returns public if a majority of the 
+     committee members vote to do so.
+       The relevant statute, Section 6103(f) of the Internal 
+     Revenue Code, instructs the IRS to release otherwise-
+     confidential tax returns or return information to three 
+     congressional tax committees--the Senate Finance Committee, 
+     the House Ways and Means Committee, and the Joint Committee 
+     on Taxation--upon written request from the chair of any of 
+     those panels. The statute also instructs the IRS to release 
+     returns or return information to other congressional 
+     committees under a narrower set of circumstances.
+       The key language regarding the receiving committee's 
+     confidentiality obligations lies in Section 6103(f)(4). That 
+     paragraph says that any return or return information obtained 
+     by the Senate Finance Committee, House Ways and Means 
+     Committee, or Joint Committee on Taxation ``may be submitted 
+     by the committee to the Senate or the House of 
+     Representatives, or to both.'' It goes on to say that any 
+     return or return information obtained by another committee 
+     ``may be submitted by the committee to the Senate or the 
+     House of Representatives, or to both, except that any return 
+     or return information which can be associated with, or 
+     otherwise identify, directly or indirectly, a particular 
+     taxpayer, shall be furnished to the Senate or the House of 
+     Representatives only when sitting in closed executive session 
+     unless such taxpayer otherwise consents in writing to such 
+     disclosure'' (emphasis added).
+       Some textualist judges and justices are fond of the Latin 
+     phrase ``expressio unius est exclusio alterius'': the 
+     expression of one thing is the exclusion of the other. But 
+     one doesn't need to be a textualist--or a classicist--to 
+     recognize the importance of the contrast between the two 
+     submission provisions. Absent the taxpayer's consent, other 
+     committees can submit returns to the full Senate or House 
+     ``only when sitting in closed executive session.'' The Senate 
+     Finance Committee, House Ways and Means Committee, and Joint 
+     Committee on Taxation can submit returns to the full Senate 
+     or House without condition.
+       Judge Trevor McFadden of the U.S. District Court for the 
+     District of Columbia reached the same conclusion in his 
+     December 2021 decision rejecting Trump's bid to block the IRS 
+     from releasing his returns. ``It might not be right or wise 
+     to publish the returns,'' McFadden wrote, but the House Ways 
+     and Means Committee has the ``right to do so.'' And if the 
+     House Ways and Means Committee exercises that right with 
+     respect to Trump's returns, its action wouldn't be 
+     unprecedented: In 2014, the House Ways and Means Committee 
+     published return information regarding 51 taxpayers as part 
+     of its investigation into allegations that the IRS had 
+     discriminated against conservative nonprofit organizations 
+     seeking tax exempt status.
+       In the definitive scholarly treatment of Section 6103(f), 
+     longtime University of Virginia law professor George Yin, who 
+     served as chief of staff of the Joint Committee on Taxation 
+     from 2003 to 2005, concludes that the choice to allow the 
+     three tax committees to publish private tax information was a 
+     ``conscious decision'' by Congress. Prior to 1976, Yin 
+     explains, the president--along with the three congressional 
+     tax committees--had statutory authority to make return 
+     information public. A 1976 amendment eliminated the 
+     president's authority to publicize return information but 
+     preserved the power of the three tax committees. ``Congress 
+     no doubt felt compelled in 1976 to preserve some outlet for 
+     Congressional disclosures to the public,'' Yin writes, and it 
+     ``was natural to give this authority to the tax committees.''
+       On top of all this, the Speech and Debate Clause immunizes 
+     lawmakers from liability for statements they make in 
+     committee and on the House or Senate floor. So even if it 
+     weren't for Section 6103(f)(4), a Ways and Means Committee 
+     member could--without legal consequence--read Trump's tax 
+     returns aloud, line by line, with the C-SPAN cameras rolling. 
+     But House Democrats don't need to rely on constitutional 
+     super-immunity here: The relevant statutory provisions 
+     clearly empower the Ways and Means Committee to enter Trump's 
+     tax returns into the public domain.
+
+
+  The Hard Question: Should House Democrats Make Trump's Tax Returns 
+                                Public?
+
+       Before delving into the normative question of whether the 
+     House Ways and Means Committee ought to publish Trump's tax 
+     returns, let's clear three points out of the way.
+       First, presidents ought to release their tax returns. 
+     Disclosure of presidential tax returns helps to dispel the 
+     pernicious notion that taxpaying is only for the ``little 
+     people.'' Disclosure also helps voters and lawmakers evaluate 
+     presidential conflicts of interest (for example, by revealing 
+     whether presidents would benefit personally from their 
+     administrations' tax proposals). Finally, disclosure serves 
+     as a check on improper presidential influence over the IRS. 
+     By virtue of their position at the apex of the executive 
+     branch, presidents are the nation's tax enforcers-in-chief, 
+     but they are also taxpayers against whom the federal tax laws 
+     may be enforced. Disclosure helps to reduce the risk that 
+     presidents will exploit their dual roles to their own 
+     pecuniary advantage.
+       Second, the Trump administration should have allowed the 
+     IRS to release Trump's tax returns to the House Ways and 
+     Means Committee when Chairman Neal requested those returns in 
+     April 2019. Section 6103(f)'s instructions are clear: ``Upon 
+     written request from the chairman of the Committee on Ways 
+     and Means'' or the chair of the other congressional tax 
+     panels, the treasury secretary (or the IRS commissioner as 
+     the secretary's delegee) ``shall furnish such committee with 
+     any return or return information specified in such request'' 
+     (emphasis added). The statute makes no exception for cases in 
+     which disclosure might embarrass the president. And while 
+     case law suggests that the executive branch may reject an 
+     information request from Congress if the request does not 
+     further a ``legitimate task of Congress,'' Neal's April 2019 
+     request manifestly stated a legitimate basis: so that his 
+     committee could conduct oversight of the IRS's presidential 
+     audit program and, if needed, consider legislative reforms 
+     related to presidential audits.
+       Third, the litigation over Neal's April 2019 request 
+     shouldn't have dragged on for as long as it did. It was 
+     nearly three and a half years ago--in July 2019--when the 
+     House Ways and Means Committee first asked a D.C. federal 
+     district court to order the IRS to hand over Trump's returns. 
+     The lengthy delay in resolving that litigation meant that 
+     Trump could effectively evade congressional oversight of the 
+     presidential audit program for the duration of his term. 
+     Fault for the delay lies at the feet of multiple people-and 
+     Neal himself bears some culpability for waiting until April 
+     2019 to submit his request and until July 2019 to file his 
+     lawsuit rather than seeking the returns immediately after 
+     Democrats took control of the House in January of that year. 
+     However one allocates blame, though, it shouldn't take three 
+     and a half years for the federal courts to confirm that the 
+     word ``shall'' in Section 6103(f) really means ``shall.''
+       But here we are in December 2022, and over the course of 
+     the three-and-a-half-year fight over Trump's returns, Neal 
+     and other members of the House Ways and Means Committee made 
+     several statements that constrain their options now. In the 
+     initial April 2019 letter requesting Trump's returns, Neal 
+     said his committee needed the documents ``to determine the 
+     scope'' of the IRS's audit of the president ``and whether it 
+     includes a review of underlying business activities required 
+     to be reported on the individual income tax return.'' As 
+     recently as last month, the Ways and Means Committee told the 
+     Supreme Court that its document request ``is well-tailored to 
+     illuminating how the IRS conducted any audits of Mr. Trump 
+     while he was President and whether reforms are needed to 
+     enhance the IRS's ability to audit Presidents in the 
+     future.'' Throughout the litigation, Neal and the House Ways 
+     and Means Committee adamantly denied that ``the request is 
+     driven by exposure solely for the sake of exposure'' (as 
+     Trump had argued). In a June 2021 letter to Treasury 
+     Secretary Janet Yellen and IRS Commissioner Charles Rettig, 
+     Neal put it succinctly: ``There have been claims''--including 
+     from Trump himself--``that the true and sole purpose of the 
+     Committee's inquiry here is to expose President Trump's tax 
+     returns. These claims are wrong.''
+       Plainly, the House Ways and Means Committee is not going to 
+     be able to carry out a thorough evaluation of the IRS 's 
+     presidential audit program in the four and a half weeks 
+     between now and the GOP takeover. The committee's document 
+     request is extensive: It has asked for returns filed by Trump 
+     and seven of his business entities from tax years 2015 
+     through 2020, a status report for each audit, and 
+     administrative files such as examiner workpapers associated 
+     with each of the Trump returns. With competing demands for 
+     the attention of committee members and staffers (including a 
+     Dec. 16 deadline to avert a government shutdown), reviewing 
+     those documents may consume the better part of the next four 
+     and a half weeks. But even after the committee reviews all 
+     those documents, it will still need more information before 
+     it can complete the comprehensive assessment of the 
+     presidential audit program that it has promised.
+       For example, the committee will need to know how the IRS's 
+     handling of items on Trump's tax returns compares to the 
+     service's treatment of similar items on returns filed by 
+     other high-net-worth business owners who weren't president of 
+     the United
+
+[[Page H9998]]
+
+     States. If the IRS allowed Trump to claim an inflated 
+     charitable contribution deduction for a conservation easement 
+     at his golf course in Westchester County, New York, is that 
+     because examiners gave special treatment to Trump, or is it 
+     because the service generally lacks the resources to 
+     challenge conservation easement appraisals? The committee 
+     also will likely need to hear testimony from IRS examiners 
+     involved in the presidential audit program. Did they 
+     personally experience improper political influence? And the 
+     committee will need to compare the audits of Trump's returns 
+     to audits of other presidents and vice presidents. For 
+     example, when Joe Biden became president, did the IRS go back 
+     and review Biden's aggressive use of a self-employment tax 
+     loophole to save hundreds of thousands of dollars on his and 
+     his spouse Jill's 2017 and 2018 returns? While Biden--unlike 
+     Trump--released his returns voluntarily, we don't know what 
+     happened to those filings after they entered the IRS audit 
+     vortex.
+       To be sure, the House Ways and Means Committee could begin 
+     its review of the presidential audit program now and then 
+     release everything it has when the clock strikes noon on Jan. 
+     3, like a test-taking student who drops her pencil mid-
+     sentence when the proctor says ``time's up.'' Trump's tax 
+     returns and additional information collected by the committee 
+     would then enter the public domain, allowing journalists and 
+     others to probe further. If Neal and the House Ways and Means 
+     Committee had said all along that their purpose was to 
+     vindicate the principle of presidential tax transparency 
+     using the powers at their disposal under Section 6103(f), 
+     perhaps that course of action would be justified. Indeed, 
+     releasing Trump's tax returns for the sake of releasing 
+     Trump's tax returns might not be such a bad thing--given all 
+     the arguments for presidential tax transparency outlined 
+     above.
+       Yet Neal and the House Ways and Means Committee insisted 
+     all along that their motive was not exposure for the sake of 
+     exposure. That was a strategically wise thing to say for 
+     litigation purposes, but the statement circumscribes what 
+     they can (or, at least, should) do next. Neal and the House 
+     Ways and Means Committee would undermine their own 
+     credibility--and could be seen as hoodwinking the courts and 
+     the public--if they proceeded to release the returns outside 
+     the context of a comprehensive review of the presidential 
+     audit program.
+
+
+                       Can the Senate Take Over?
+
+       Enter stage left: the Senate Finance Committee. While the 
+     Republicans who take control of the House Ways and Means 
+     Committee in January are exceedingly unlikely to continue the 
+     Democrats' inquiry, the Senate Finance Committee under the 
+     leadership of Chairman Ron Wyden (D-Ore.) is quite capable of 
+     conducting the comprehensive review of the presidential audit 
+     program that House Democrats won't be able to complete. Wyden 
+     will have to send his own written request to the IRS for 
+     Trump's returns, but this shouldn't be much more than a 
+     formality: Wyden could send the request this morning, and the 
+     IRS could send the documents back this afternoon. There is no 
+     requirement that Wyden or the IRS even inform Trump of the 
+     request before the IRS fulfills it. By the time Trump could 
+     file a lawsuit to stop the IRS from complying, Wyden already 
+     would have the documents in hand. In any event, a lawsuit by 
+     Trump to stop the IRS from fulfilling Wyden's request would 
+     be frivolous given the D.C. Circuit's decision resolving the 
+     issue in the House litigation--and almost certainly would be 
+     dismissed much more quickly than Trump's earlier bid to block 
+     the House.
+       Section 6103(f)(4) also allows Neal, as chair of the House 
+     Ways and Means Committee, to appoint agents to examine the 
+     returns that he has obtained through his request. In theory, 
+     Neal could appoint Senate Finance Committee staffers--or 
+     Chairman Wyden himself--as the House committee's agents. But 
+     Neal's GOP successor as House Ways and Means chair could 
+     revoke that appointment, ending the Senate's inquiry in 
+     midstream. Thus, the better course of action is clearly for 
+     Wyden to issue his own written request for the returns on the 
+     Senate Finance Committee's behalf.
+       In sum, even as the window closes for the House Ways and 
+     Means Committee to conduct a comprehensive review of the 
+     presidential audit program, Congress still can comb through 
+     Trump's tax returns and determine whether the IRS fairly and 
+     fully audited the former president. It would be in a 
+     different chamber of Congress--the Senate, not the House--but 
+     Trump would nonetheless be subject to legislative branch 
+     scrutiny.
+       Hopefully, House Democrats will recognize that deferring to 
+     their Senate colleagues is preferable to reneging on their 
+     own word and publishing Trump's returns outside the context 
+     of the presidential audit program review that they promised. 
+     If, instead, House Democrats release the returns now, Trump 
+     and his supporters will charge Democrats with duplicity for 
+     saying one thing in litigation and doing another thing 
+     afterward--and the charge won't be entirely baseless. That 
+     would, perversely, allow Trump to transform the matter of his 
+     tax returns from a political vulnerability for him to a 
+     potential liability for Democrats. And beyond questions of 
+     political strategy, promise-keeping is--of course--an 
+     important value in itself.
+       So yes, presidents should release their tax returns, but 
+     that doesn't release House Democrats from the avowals about 
+     their motives that they have made since 2019. In their last 
+     weeks in the majority, House Democrats have another 
+     opportunity to demonstrate why they deserve the nation's 
+     trust. They should seize it--even if that means those of us 
+     who have been waiting for years to know what's buried in 
+     Trump's tax returns might have to wait a little longer.
+
+  Mr. BRADY. Madam Speaker, I reserve the balance of my time.
+
+                              {time}  1015
+
+  Mr. NEAL. Madam Speaker, I yield 1\1/2\ minutes to the gentleman from 
+Nevada (Mr. Horsford), who has been a leader on this issue and gave one 
+of the most moving addresses as the caucus ensued.
+  Mr. HORSFORD. Madam Speaker, I thank the distinguished chairman, Mr. 
+Neal, for yielding time and for leading this important legislation. I 
+also thank him for the opportunity to serve on this important 
+committee.
+  I also thank the ranking member for always showing respect in our 
+deliberations. All the best to you in your future deliberations.
+  Madam Speaker, I rise today in support of H.R. 9640, the Presidential 
+Tax Filings and Audit Transparency Act of 2022.
+  As the chair has said, since 1977, the IRS adopted a policy of 
+conducting mandatory audits on the President while they are in office 
+as a check on their power. Disturbingly, our committee found that the 
+IRS had all but given up and ceased this program under the previous 
+administration.
+  As our colleagues on the other side of the aisle have chipped away at 
+the funding for the IRS, their talent pool has shrunk. They have been 
+unable to retain the kind of tax and financial experts that are 
+actually needed to review the complex tax returns of some of the 
+wealthiest.
+  Meanwhile, those on the lower income spectrum, especially those with 
+children who claim the earned income tax credit, are more likely to be 
+audited. In fact, in reports from our committee, five times more likely 
+to be audited are those individuals on the low-income spectrum than the 
+most wealthy.
+  The evidence is clear: Congress must step in. This is why this 
+legislation must be passed.
+  Madam Speaker, I urge my colleagues to vote ``aye'' on this measure 
+and to put the confidence of the American people in our tax system once 
+again.
+  Mr. BRADY. Madam Speaker, I include in the Record an August 2, 2022, 
+blog post from the Committee on Ways and Means titled: ``New Schumer-
+Manchin Bill Will Supercharge Long History of IRS Abuses.''
+
+ New Schumer-Manchin Bill Will Supercharge Long History of IRS Abuses, 
+                            August 2, 2022.
+
+       Despite a long history of IRS abuses, Democrats have 
+     revived their proposal to send 87,000 new IRS agents after 
+     you and your family-owned business on the belief that 
+     everyone is a tax cheat. The IRS has already been targeting 
+     lower and middle income earners, yet Democrats want to hire 
+     new IRS agents to audit individuals and small businesses. 
+     They've also promised to revive their invasive bank 
+     surveillance scheme.
+
+
+democrats want to increase audits for all individuals by more than 1.2 
+                           million per year:
+
+       A Senate Finance Committee analysis shows the $45.6 billion 
+     for ``enforcement'' would ``predominantly hit taxpayers who 
+     have low (or very low) Adjusted Gross Income. Nothing in the 
+     proposal would change that fact.''
+       Nearly half of the audits would hit Americans making 
+     $75,000 per year or less.
+       Low-income taxpayers making up to $25,000 per year would 
+     see more audits too.
+       Despite a clear need for greater taxpayer customer service 
+     amidst a historic tax return backlog, only $3.2 billion of 
+     Democrats' $80 billion is earmarked for that purpose.
+       Supercharging the IRS will lay the groundwork for the 
+     monitoring the Biden Administration has pledged to impose. 
+     Top Biden officials have made clear they have not given up on 
+     implementing IRS bank surveillance.
+
+
+ Overly broad IRS targeting spanning decades has claimed many victims, 
+                 and Democrats are trying to revive it.
+
+       Former IRS official Lois Lerner apologized in 2013 that Tea 
+     Party groups and other groups had been targeted for audits of 
+     their applications for tax-exemption, which effectively 
+     delayed that status until they could no longer take effective 
+     part in the 2012 election. The Treasury Inspector General 
+     found that ``Inappropriate Criteria Were Used to Identify 
+     Tax-Exempt Applications for Review back in 2013.
+       In 1998, the Waslington Post reported that ``An Oklahoma 
+     tax-return preparer, a Texas
+
+[[Page H9999]]
+
+     oilman and a Virginia restaurateur told lawmakers how raiding 
+     parties of armed agents from the IRS Criminal Investigation 
+     Division barged into their homes or offices, frightened their 
+     employees and families--and ultimately came up empty-
+     handed.''
+       ``Two of the men said they later found that former 
+     employees had precipitated the raids, and that the IRS had 
+     done little or no checking on their informants' credibility.
+       The third witness said he never could determine why he was 
+     targeted.''
+       In 1997, CNN reported testimony from an expert that the IRS 
+     was ``the best secret-keeping agency in our government today: 
+     ``I discovered that the IRS does keep lists of American 
+     citizens for no reason other than that their political 
+     activities might have offended someone at the IRS; about how 
+     the IRS believes that anyone who offers even legitimate 
+     criticism of the tax collector is a tax protester; about how 
+     the IRS shreds its paper trail, which means that there is no 
+     history, no evidence and, ultimately, no accountability.''
+       Robert Schriebman, a tax professor at the University of 
+     Southern California and author of eight books critical of IRS 
+     practices and procedures, decried the agency's ability to 
+     ignore citizens' due-process protections. ``The IRS can take 
+     a taxpayer's home by just the signature of the district 
+     director alone,'' he said.
+       These abuses led to numerous attempts at overhauling the 
+     agency, and the latest still has not yet been implemented.
+
+
+  Irs agents have wrongly seized millions from small businesses when 
+                         given the opportunity
+
+       In an apparent show of strength, past IRS actions led to 
+     the seizure of more than $43 million from bank accounts of 
+     hundreds of small businesses; the results of those actions in 
+     a recent case led to local wedding dress shop being 
+     permanently shut down.
+       Only after intense pressure from Congress did the IRS 
+     return the money that had been taken to some of the 
+     businesses, including a Maryland dairy farmer.
+
+
+IRS political leaks have been a problem whenever Democrats have been in 
+                            the White House
+
+       The last time President Biden was in the White House in 
+     2011, Democrats pushed for billions more in enforcement 
+     without providing clear, independent analysis supporting the 
+     funding, relying on information provided by activist groups 
+     aligned with their political objectives, and the IRS, which 
+     stood to gain funding.
+       Prior to the 2021 leak, ProPublica previously received (and 
+     published) leaked taxpayer information from the IRS in 2012 
+     that just so happened to include critics of the Democrat 
+     administration.
+
+
+   Political targeting By IRS threatens religious organizations and 
+                             critics alike
+
+       The IRS initially denied a Christian organization tax-
+     exempt status because its emphasis on certain ``Bible 
+     teachings are typically affiliated with the [Republican] 
+     Party and candidates.''
+       This is particularly concerning given the agency's prior 
+     history of targeting tax exempt groups for additional 
+     scrutiny based on their perceived political affiliation.
+       Recently, Democrats in Congress asked the IRS to increase 
+     scrutiny of groups seeking church status.
+
+
+                  IRS mismanagement is well documented
+
+       An audit of the IRS itself, conducted from FYs 2010-2012 
+     and published in 2013 found ``inappropriate use of taxpayer 
+     funds being spent on conferences and reviews selected 
+     conferences to determine whether the conferences were 
+     properly approved, and the expenditures were appropriated.''
+       Another audit in 2019 found that the IRS wasted millions of 
+     dollars on software licenses it purchased but never used due 
+     to mismanagement of IT contracts and systems updates.
+       Despite the Biden Administration's claim that more money 
+     will increase IRS audits and increase revenue from wealthy 
+     individuals and corporations, the Inspector General actually 
+     found that after spending $22 million and 200 hours auditing 
+     large businesses, the IRS was unsuccessful in bringing in 
+     money to the Treasury from those audits nearly 50 percent of 
+     the time.
+  Mr. BRADY. Madam Speaker, I reserve the balance of my time.
+  Mr. NEAL. Madam Speaker, I yield 1 minute to the gentleman from Texas 
+(Mr. Green), who has energetically spoken about this issue in the past 
+and will, I am sure, in the future.
+  Mr. GREEN of Texas. Madam Speaker, and still I rise. I rise today 
+because I believe we have a duty, a responsibility, and an obligation 
+to protect the great and noble American ideals that are the foundation 
+of this country.
+  We have a duty to protect what John Adams, the second President, 
+brought to our attention, that we are a country of laws, not men, and 
+what Teddy Roosevelt, the 26th President, brought to our attention, 
+that no one is above the law.
+  The President has awesome authority. The IRS is under the auspices of 
+the executive branch. We must put in place laws to assure us that there 
+are no conflicts of interest being perpetrated by a President who has 
+control of the agency that is supposed to audit his taxes.
+  We have a duty, a responsibility, and an obligation. I thank Mr. Neal 
+for living up to the duty, the responsibility, and the obligation.
+  I respect my friend on the other side from Texas. We disagree. I wish 
+him the best. But we have to go on, and the country needs this 
+legislation. I encourage my colleagues to support it.
+  Mr. BRADY. Madam Speaker, I include in the Record a 2017 House report 
+where the chairman said: ``Committee Democrats remain steadfast in our 
+pursuit to have [President Trump's] individual tax returns disclosed to 
+the public,'' which can be found at: https://www.congress.gov/
+congressional-report/115th-congress/house-report/73/1
+  Mr. BRADY. Madam Speaker, I reserve the balance of my time.
+  Mr. NEAL. Madam Speaker, I yield 1 minute to the gentlewoman from 
+Texas (Ms. Jackson Lee), who has been outspoken on this issue, as well.
+  Ms. JACKSON LEE. Madam Speaker, it is good in this season to be 
+surrounded by truth.
+  Let me rise to support H.R. 9640, the Presidential Tax Filings and 
+Audit Transparency Act of 2022, because this is a necessity.
+  When the Committee on Ways and Means investigated the IRS' execution 
+of its mandate to audit the taxes of a sitting President, they found 
+that, during the Trump administration, the IRS has been in serious 
+dereliction of its duty to audit the taxes of Donald Trump when he had 
+been President. In fact, we have found and believe that at one time he 
+paid zero.
+  I don't want to necessarily focus on Donald Trump, but he happens to 
+be at the core issue of the fact of: Are we an equal society? The 
+Committee on Ways and Means has emphasized that we are.
+  It leads us to the obvious questions of: Why? Did the IRS simply 
+forget to do it? Did someone misplace his tax returns? Did the auditor 
+of Presidential tax returns retire?
+  I think this legislation is imperative because it must be a general 
+perspective that transparency is for everyone.
+  Let me be very clear: There are hardworking members of the IRS, 
+hardworking members of that team.
+  The SPEAKER pro tempore. The time of the gentlewoman has expired.
+  Mr. NEAL. Madam Speaker, I yield an additional 30 seconds to the 
+gentlewoman from Texas.
+  Ms. JACKSON LEE. Madam Speaker, we know and see them all the time.
+  Madam Speaker, in addition to the dereliction regarding the audit of 
+Donald Trump, we have heard that if you are a schoolteacher, you are 
+audited.
+  I want to say to the IRS Commissioner: You are derelict in your 
+duties. You are derelict in your sensitivity to constituents, to calls 
+from Members, and you are derelict in your duty as to what you are 
+supposed to do as related to the President of the United States, not 
+only because he was President but because he was an individual who 
+continued to ignore the laws of the land.
+  I said today was a day of truth in this holiday season. This 
+legislation will bring truth and respect. Let's see those tax returns, 
+and let the IRS do its job on behalf of the American people.
+  Madam Speaker, I rise in strong support of H.R. 9640, the 
+Presidential Tax Filings and Audit Transparency Act of 2022.
+  This legislation arose by necessity. When the Ways and Means 
+Committee investigated the IRS's execution of its mandate to audit the 
+taxes of a sitting president, it found that, during the Trump 
+administration, the IRS had been in serious dereliction of its duty to 
+audit the taxes of Donald Trump when he had been president.
+  This was especially troubling because, based on publicly known and 
+commonly held information, Donald Trump's activities and investments 
+presented a wide range of questionable and potentially problematic tax 
+issues, to a far greater degree than any previous president.
+  Donald Trump's taxes are the prototypical example of why the policy 
+was established in the 1970s that required the IRS to audit the taxes 
+of a sitting president.
+  And yet, as the Ways and Means Committee found, it did not happen, 
+either never being initiated or never being completed.
+  It leads us to the obvious question: Why?
+  Did the IRS simply forget to do it?
+  Did someone misplace his tax returns?
+  Did the auditor of presidential tax returns retire?
+  While we don't know the exact answer, the IRS's failure to conduct 
+its statutorily mandated audit of the president's taxes raises the 
+possibility of a nefarious reason for the failure.
+
+[[Page H10000]]
+
+  Given the well-documented, extensive, and repeated malfeasance that 
+was endemic to the presidency of Donald Trump--including all of the 
+evidence presented during his two impeachment trials and his attempt to 
+obstruct the effectuation of the 2020 election and subvert the 
+Constitution, as exposed by the January 6th Select Committee--it is 
+obvious that Trump had little or no interest in personally adhering to 
+the law.
+  Because of that, Congress would be naive to believe that the IRS's 
+failure to audit Trump's taxes was merely an administerial error.
+  Whether the failure was due to a specific instruction that was 
+transmitted directly to the IRS leadership, or an implied directive 
+that was recognized, or possibly some other means of observing or 
+conveying Trump's wishes, it would be foolish to ignore the possibility 
+that a president who flouted the law with impunity on so many occasions 
+had instead, in total contrast, insisted on strict adherence to the law 
+in connection to the audit of his personal taxes, and that his views 
+played no part in the failure of the IRS to audit his taxes.
+  This obvious observation is accentuated by Trump's public statements 
+displaying his antipathy to paying his fair share of federal taxes. 
+Perhaps most resoundingly, during a 2016 debate, he said that, by 
+paying nothing in federal taxes over a series of years, ``That makes me 
+smart.''
+  All of this pertinent background underscores the obvious basis for 
+the legislation that we are now considering: Congress must ensure that 
+the failure by the IRS to audit a sitting president's taxes Never 
+Happens Again.
+  This bill codifies the requirement that the IRS conduct and complete 
+an audit of the sitting president's taxes each year, and publicly 
+disclose certain information about its findings.
+  The bill also requires the IRS to audit any additional filing by a 
+former president that relates to a year in which he or she had been in 
+office.
+  Since it is the responsibility of Congress to ensure that the tax 
+code is administered fairly for every American, it is especially 
+important that Congress apply that to the most powerful American at any 
+given time: the president of the United States.
+  Fairness requires even-handed application of the law to everyone, 
+including those with the most influence over our governmental 
+institutions.
+  Failure to adhere to this precept would subordinate public confidence 
+in our democracy the whims of the person who presides over the entire 
+executive branch of our government.
+  Failure to abide by fairness in the enforcement of our tax code would 
+negate fairness as a fundamental American principle.
+  Failure to apply the tax code to the president in an even-handed 
+manner, just like it applies to other Americans, would assert 
+acquiescence of justice and the rule of law to Machiavellian, 
+autocratic, narcissistic personal interests and personal power.
+  That may be how things work in countries run by monarchs, but that's 
+not how the United States works.
+  In fact, it is antithetical every stroke of the quill that composed 
+our Constitution.
+  Madam Speaker, I strongly support this legislation because it is 
+necessary and appropriate, and it effectuates bedrock American 
+principles.
+  I urge all my colleagues to vote YES on this bill to empower the IRS 
+to do its job--free of fear or favor--and remind every future president 
+that he or she is subordinate to the Constitution and the rule of law, 
+just like every other person in our country.
+  The SPEAKER pro tempore. Members are reminded to address their 
+remarks to the Chair and not to a perceived viewing audience.
+  Mr. BRADY. Madam Speaker, I yield myself such time as I may consume.
+  Madam Speaker, I would note that, every year, President Trump's tax 
+returns were under audit and that the tradition of making Presidential 
+tax returns public is just that, a tradition, not a law, and unrelated 
+to the Presidential audit program.
+  I would also note that while I have loved serving with my colleagues 
+from Houston, I would note that they were among the very first Members 
+of Congress to introduce impeachment resolutions against this President 
+in the very first year of his Presidency, revealing that this is 
+political targeting and nothing else.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. NEAL. Madam Speaker, I yield myself such time as I may consume.
+  Before I finish my time here, I do thank Kevin Brady. We had an 
+excellent relationship at the committee. I can speak for all the 
+Democrats on the committee that they had high regard for Kevin Brady 
+when he was in the majority and when he was in the minority for the way 
+he allowed the minority, us at the time, to use the time that was 
+allocated to us. I never thought during that time that Mr. Brady did 
+anything that was mean or malicious.
+  In addition, I think what is important to point out here, as he did 
+in his comments, is that we did big things during that time. When you 
+stop and consider the CARES Act, when you consider what we did in the 
+health space, retirement and savings, what we were able to do with 
+USMCA, all of that was done in a bipartisan manner. I think part of it 
+is a reflection of his personality, which fundamentally lacks malice.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. BRADY. Madam Speaker, I yield myself the balance of my time.
+  Madam Speaker, I include in the Record an October 2018 article, 4 
+years ago, from the San Francisco Chronicle, where the Honorable Nancy 
+Pelosi said to expect Democrats to immediately try to force President 
+Trump to release his tax returns if they take back the House in 
+November, exposing the true purpose of this effort.
+
+             [From the Bloomberg Government, Oct. 11, 2018]
+
+ SF Chronicle: Pelosi: Trump's Tax Returns are Fair Game if Democrats 
+                               Win House
+
+                          (By John Wildermuth)
+
+       Expect Democrats to immediately try to force President 
+     Trump to release his tax returns if they take back the House 
+     in November, Minority Leader Nancy Pelosi said Wednesday.
+       Demanding the president's tax returns ``is one of the first 
+     things we'd do--that's the easiest thing in the world. That's 
+     nothing,'' Pelosi told The Chronicle's editorial board in an 
+     hour-long interview.
+       Although a 1924 provision of the Internal Revenue Code 
+     gives certain congressional committees the right to request--
+     and release--the tax records of even the president, it's 
+     unlikely Trump would surrender those documents without an 
+     all-out legal battle. He has refused to release his returns 
+     since he announced he was running for president, arguing 
+     first that he was being audited and later that voters don't 
+     care.
+       The GOP-led Congress has joined in keeping those records 
+     private, regularly voting down Democratic efforts to make 
+     Trump turn them over.
+       Forcing Trump to release his returns would not necessarily 
+     make them public, but would allow a Democratic-run 
+     congressional committee to decide whether there is 
+     information in those returns that needs to be investigated.
+       Whether that happens hinges on Democrats winning the House 
+     or the Senate. With the Nov. 6 election less than four weeks 
+     away, Pelosi sounded confident about both the House 
+     Democrats' chances and her own political future.
+       ``I believe we would win if the election was today,'' she 
+     said. And although more than 50 Democratic candidates have 
+     said they wouldn't vote for Pelosi to lead the House, the San 
+     Francisco Democrat said, ``I believe I will be speaker if we 
+     win.''
+       Releasing the president's tax returns to a congressional 
+     committee would not be revenge for the way Trump and GOP 
+     leaders have treated the Democratic minority for the past two 
+     years, but a simple matter of oversight by Congress, ``a co-
+     equal body of government,'' Pelosi said.
+       ``We have to have the truth,'' she said.
+       Payback isn't going to be part of a Democratic-led House, 
+     Pelosi promised, pushing back against what she called the 
+     ``pound of flesh crowd'' of Democrats eager to repay 
+     Republicans for every political slight and attack since Trump 
+     was elected.
+       ``We will seek bipartisanship where we can,'' Pelosi said. 
+     ``One of the reasons we should win is that we're not like 
+     them, and we're not going to be like them.''
+       The Democratic leader also says she doesn't have much 
+     choice. No matter what happens on election day, Trump is 
+     still going to be president and she will have to work with 
+     him.
+       ``We need to get a signature, which requires some 
+     bipartisanship, some common ground,'' Pelosi said, which she 
+     admitted wasn't always easy.
+       ``I, probably more than most people do, respect the office 
+     he serves in, probably more than he does,'' she said. ``But 
+     he is the president--we have to find our common ground. . . . 
+     We want to get results for the American people.''
+       But that's going to mean discussions and compromise, not 
+     surrender, Pelosi said. Democrats ``will never negotiate away 
+     our values,'' she said.
+       Pelosi is confident there are areas where Democrats can 
+     reach agreement with Trump and Republicans, as they did when 
+     Republican George W. Bush was president.
+       Despite disputes over the Iraq War and other issues, ``we 
+     worked together, we disagree and we agreed, and that's the 
+     marketplace of ideas that we live in,'' she said.
+       Areas where there could be common ground include national 
+     infrastructure improvements, a plan for Dreamers, 
+     undocumented residents who arrived in this country
+
+[[Page H10001]]
+
+     as minors, and ways to curb gun violence, Pelosi said.
+       There's also public support for efforts to allow the 
+     Department of Health and Human Services to negotiate for 
+     lower drug prices, she added.
+       Pelosi also weighed in on some local issues, saying she 
+     supported San Francisco's efforts to establish a safe 
+     injection site for drug users, something Gov. Jerry Brown 
+     vetoed last month. She also backed changes in federal 
+     marijuana laws, although she admitted, ``I don't see this 
+     president signing any such thing.''
+       But those concerns are far from the top of the Democrats' 
+     ``to-do'' list if they take back the House. ``The first order 
+     of business is the economic security of America's working 
+     families--that is what people care about,'' Pelosi said.
+       For Pelosi, that concern connects directly with San 
+     Francisco's Proposition C, which would tax large companies to 
+     raise an estimated $300 million a year for homeless programs.
+       Pelosi said she supports the measure because it's something 
+     the city needs to do. She acknowledged the opposition from 
+     her political ally Mayor London Breed, who has said that 
+     before the city pours millions of dollars more into homeless 
+     programs, ``San Franciscans deserve accountability for the 
+     money they are already paying.''
+       ``I don't disagree with the mayor that there should be 
+     accountability and there should be a plan'' about how to use 
+     the funds, Pelosi said. ``I have great confidence in the 
+     mayor that she can handle it if Prop. C wins.''
+       Efforts to deal with social problems like homelessness, 
+     hunger and housing insecurity require a new vision from 
+     Congress, she said.
+       ``We have to think in a different way about it, and when we 
+     think big, we have to put our hands in the pockets where the 
+     money is,'' Pelosi said.
+       Homelessness ``is not an issue, it's a value. It's an ethic 
+     that we have not properly addressed.''
+  Mr. BRADY. Madam Speaker, I yield myself the balance of my time.
+  Madam Speaker, Nancy Pelosi is not alone. Democrat after Democrat on 
+this committee and in this Congress made it clear years ago that they 
+were targeting President Trump to try to force his tax returns to be 
+made public, even though the law doesn't require it at all and, as was 
+revealed in our committee hearing, it has nothing to do with the 
+Presidential audits.
+  In fact, in our markup, again and again, we heard from Members who 
+said we must force these private tax returns to be made public so we 
+can see his dealings, so we can see his taxes, so we can criticize. 
+Nothing to do with the Presidential audit process.
+  That is our concern today, that under the new standard that has been 
+set, and the Supreme Court has affirmed, two individuals in Congress, 
+the chairman of the Committee on Ways and Means and the chairman of 
+Senate Finance Committee, will have nearly unlimited power, with almost 
+any excuse, to obtain, to investigate, and to make public those very 
+private tax returns.
+  We are not alone in our concerns. Other scholars have made the point 
+that we have a voluntary tax system and that if Americans don't believe 
+and can't trust that their tax returns won't be kept private, if they 
+have to worry that if they end up on the enemy's list in Congress, that 
+they, too, can be a target. Under this new process and this new 
+standard, the privacy protections of the last half a century are gone.
+  My worry, and I think the worry of every Republican here, and I hope 
+some of our Democrat friends, as well, is that this will provide a 
+dangerous new political weapon that invites political retribution where 
+that cycle will continue and our politics will be worse, harsher, 
+uglier, and more divisive because of this action.
+  Again, at the end of the day, whether a President makes their tax 
+returns public or not, today it is not the law. While I would recommend 
+it for all, the truth of the matter is, at the end of the day, this is 
+political targeting. It can be applied not just to the President but to 
+every American.
+  I am worried that it is not just public officials at risk. It is 
+private citizens. It could be supporters. It could be business or labor 
+leaders. It could be the Supreme Court that someone seeks to 
+delegitimize. That is our concern here.
+  This is why we are fighting this fight as Republicans, to protect the 
+privacy of every American, to make sure they are not targeted by 
+partisans in Congress.
+  I will tell you, I am very worried that every chairman of those two 
+committees will face incredible pressure to target Americans, political 
+enemies, and opponents, and I don't think we should ever go down that 
+road. Regrettably, we are, and that is why we are here.
+  I have respected Chairman Neal for many years and treasure our 
+working relationship and the accomplishments we have done. I will miss 
+you, friend.
+  Before we conclude today, I want to say a special thank-you to 
+several members of the Committee on Ways and Means Republican staff who 
+have worked so hard on this issue for years: Sean Clerget, Derek 
+Theurer, Caroline Jones, Molly Fromm, Brittany Havens, Paige Decker, 
+J.P. Freire, and, of course, the remarkable staff director of the 
+Committee on Ways and Means Republicans, Gary Andres. He has done a 
+great job for this committee and this country.
+  Madam Speaker, I yield back the balance of my time.
+  Mr. NEAL. Madam Speaker, I yield myself the balance of my time for 
+closing.
+  The constant theme that we have heard today from our Republican 
+colleagues is that this is about targeting an individual. This is a 
+chance to clarify the law that they suggest is currently in a 
+convoluted stage, which means that there is, in their judgment, 
+sufficient confusion about the law as to whether or not the process 
+should play out.
+  What this legislation argues, I think, with great proficiency is the 
+following, and that is that we should codify the system that we have 
+discovered in recent days is not only dysfunctional but is nonexistent.
+  Nine out of the last 10 Presidents of the United States have 
+voluntarily released their tax forms. It dates to Richard Nixon in a 
+letter to the then-chairman of this committee, Wilbur Mills.
+  Barack Obama and Joe Biden have both indicated they have been fully 
+audited. What we are suggesting today is that this is an opportunity to 
+clear up the question of how the mandatory audit that is highlighted in 
+regulations at the IRS plays out.
+  By the way, when we say it is not in law, this institution here 
+functions on the basis of rules as well as law. The rules in the IRS 
+manual said that the audit ought to take place. We have discovered that 
+not only did the audit not take place but it hasn't even been 
+completed.
+  A reminder: This is not about a President. This is about the 
+Presidency going forward.
+
+                              {time}  1030
+
+  This was not done with malicious intent. It was not done in a 
+clandestine manner. It was this chance to say, okay, if there is a 
+legitimate argument about how the mandatory audit system plays out, 
+let's straighten it out this morning. Easily done and accomplished. 
+Paying taxes is a core responsibility, a reflection of our faith in 
+common citizenship.
+  Despite the idea that we talk about a voluntary system, treasure the 
+idea that about 87 percent of the American people pay their taxes on 
+time. That really speaks, I think, to the intent and sincerity that 
+they feel about a functioning government. All of us are expected to 
+fulfill that responsibility.
+  In exchange for voluntary compliance, we have to be assured that a 
+fair and well-functioning system ensures that everyone else is 
+cooperating, too. This shouldn't be the kind of country that allows 
+those with power and privilege to be held above the law that applies to 
+everyone else. That is not part of our national character. That is not 
+our ethic as a people.
+  Here, no one, no matter how powerful, should be out of the reach of 
+the tax system, least of all not in compliance with our tax laws.
+  The IRS failed its own policy to audit a President in an affront to 
+our shared sense of justice and fairness. Everybody on this occasion 
+acknowledges that, the audit did not take place. And no audit has been 
+completed 3 years later.
+  The legislation before us, H.R. 9640, rectifies the situation. It 
+offers great clarity.
+  Madam Speaker, I urge all of my colleagues to support this 
+legislation, and I yield back the balance of my time.
+  Mr. PASCRELL. Madam Speaker, I was the first member who advocated for 
+reviewing and releasing Donald Trump's tax returns. I've been on this 
+quest for nearly 6 years.
+  I applaud Chairman Neal for fighting until the very end. This was not 
+about 1 man. The law was always on our side.
+
+[[Page H10002]]
+
+  Our committee investigation makes crystal clear why Trump and his 
+cronies obstructed our work. Trump's handpicked Treasury Secretary and 
+IRS head were at best derelict. At worst they were corrupt and 
+criminal.
+  Trump paid a pittance in taxes for years. He overinflated losses to 
+shirk his duty as an American citizen.
+  Trump's government failed to conduct a mandatory review of his tax 
+records. They broke the law.
+  We provided the IRS with funds to prevent tax cheats from abusing our 
+tax code. Now, we must ensure the IRS cannot meddle with the audit 
+process and presidential returns are made public.
+  Americans must have faith that our tax system is fair. No one is 
+above the law. It is time to act.
+  The SPEAKER pro tempore. Pursuant to House Resolution 1529, the 
+previous question is ordered on the bill.
+  The question is on the engrossment and third reading of the bill.
+  The bill was ordered to be engrossed and read a third time, and was 
+read the third time.
+  The SPEAKER pro tempore. The question is on passage of the bill.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. BRADY. Madam Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further 
+proceedings on this question will be postponed.
+
+                          ____________________
+
